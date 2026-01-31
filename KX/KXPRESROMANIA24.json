@@ -1,0 +1,31 @@
+{
+  "additional_prohibitions": [
+    "Holders of national and regional public office, including the President of Romania, Members of the Parliament of Romania (both Senators and Deputies), and elected county, municipal, and local officials such as mayors and city councilors.",
+    "Paid campaign staffers on presidential and parliamentary campaigns.",
+    "Anyone working in a vote-tallying capacity, or who has the potential ability to observe official vote counts before they are public.",
+    "Third-party vendors and contractors (and employees thereof) of parliamentary campaigns",
+    "Paid employees of Romanian political parties, including but not limited to the Social Democratic Party (PSD), the National Liberal Party (PNL), the Save Romania Union (USR), the Democratic Alliance of Hungarians in Romania (UDMR), and others.",
+    "Paid employees of major polling organizations. This prohibition does not apply to all employees of an organization that contains a polling division (e.g. the prohibition does not apply to all employees of Quinnipiac University despite the presence of Quinnipiac University’s polling division). The Exchange shall determine which polling organizations constitute “major” and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "Employees of major Romanian media organizations (including, but not necessarily exclusive to, Adevărul, România Liberă, Evenimentul Zilei, Digi24, and Pro TV). The Exchange shall determine which media organizations constitute \"major\" and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "All staff of the Office of the President and the Office of the Prime Minister.",
+    "All staff of the Parliament of Romania and its members",
+    "All staff of the Constitutional Court of Romania and its Justices."
+  ],
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PRESROMANIA.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PRESROMANIA.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    }
+  ],
+  "tags": [
+    "Foreign Elections"
+  ],
+  "ticker": "KXPRESROMANIA24",
+  "title": "2025 Romanian presidential election"
+}

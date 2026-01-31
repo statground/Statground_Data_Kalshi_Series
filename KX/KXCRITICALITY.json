@@ -1,0 +1,106 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CRITICALITY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CRITICALITY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbs.com"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "company",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "company Chief Executive Officer",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "company's official social media accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "company's official website",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "company's SEC filings",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Energy Central",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbc.com"
+    },
+    {
+      "name": "Nuclear Engineering International",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Nuclear News",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "the International Atomic Energy Agency",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "the U.S. Nuclear Regulatory Commission",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "Utility Dive",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "World Nuclear News",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCRITICALITY",
+  "title": "Nuclear power criticality"
+}

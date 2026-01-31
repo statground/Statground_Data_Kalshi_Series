@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ECB.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ECB.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "European Central Bank",
+      "url": "https://www.ecb.europa.eu/press/pr/activities/mopo/html/index.en.html"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXECB",
+  "title": "European Central Bank main refinancing rate"
+}

@@ -1,0 +1,88 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ENDORSE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ENDORSE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "official campaign announcements from ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official social media accounts controlled by ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official statements from organizations where  holds a leadership position",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Politico EU",
+      "url": "https://www.politico.eu/europe-poll-of-polls/united-kingdom/#starmer-approval"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": [
+    "US Elections"
+  ],
+  "ticker": "KXENDORSECUOMOADAMS",
+  "title": "CUOMO ENDORSE ADAMS"
+}

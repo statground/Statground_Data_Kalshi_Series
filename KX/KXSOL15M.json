@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CRYPTO15M.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CRYPTO15M.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "fifteen_min",
+  "settlement_sources": [
+    {
+      "name": "CF Benchmarks",
+      "url": "https://www.cfbenchmarks.com/"
+    }
+  ],
+  "tags": [
+    "15 min",
+    "SOL"
+  ],
+  "ticker": "KXSOL15M",
+  "title": "Solana 15 minutes"
+}

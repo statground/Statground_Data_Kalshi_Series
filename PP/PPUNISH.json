@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RPUNISH.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RPUNISH.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Clerk of the House of Representatives ",
+      "url": "https://clerk.house.gov/committees"
+    },
+    {
+      "name": "House Minority Leader",
+      "url": "https://www.republicanleader.gov/category/press/"
+    }
+  ],
+  "tags": null,
+  "ticker": "PPUNISH",
+  "title": "Republican punished"
+}

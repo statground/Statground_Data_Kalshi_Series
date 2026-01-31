@@ -1,0 +1,50 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NEXTLAUNCH.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NEXTLAUNCH.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Blue Origin",
+      "url": "https://www.blueorigin.com/"
+    },
+    {
+      "name": "NASA",
+      "url": "https://blogs.nasa.gov/planetarydefense/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "SpaceX",
+      "url": "https://www.spacex.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNEXTLAUNCHSMALL",
+  "title": "Next small launch"
+}

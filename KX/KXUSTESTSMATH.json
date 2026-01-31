@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/USTESTS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/USTESTS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Nation's Report Card",
+      "url": "https://nces.ed.gov/nationsreportcard/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXUSTESTSMATH",
+  "title": "US Test scores in Math"
+}

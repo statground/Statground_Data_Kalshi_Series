@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EUCLIMATE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EUCLIMATE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "EU",
+      "url": "https://www.consilium.europa.eu/en/policies/climate-change/paris-agreement/"
+    }
+  ],
+  "tags": [
+    "Climate change"
+  ],
+  "ticker": "KXEUCLIMATE",
+  "title": "EU hits climate goals"
+}

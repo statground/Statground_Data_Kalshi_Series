@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CRITICS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CRITICS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Critics Choice Awards",
+      "url": "https://www.criticschoice.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCRITICSYACT",
+  "title": "Critics Choice Award for Best Young Actor/Actress"
+}

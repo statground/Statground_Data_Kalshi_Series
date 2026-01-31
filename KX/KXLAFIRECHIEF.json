@@ -1,0 +1,26 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/LAFIRECHIEF.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/LAFIRECHIEF.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Los Angeles Fire Department",
+      "url": "https://lafd.org/"
+    },
+    {
+      "name": "Mayor of Los Angeles",
+      "url": "https://mayor.lacity.gov/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXLAFIRECHIEF",
+  "title": "LA Fire Chief laves"
+}

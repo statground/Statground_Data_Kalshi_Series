@@ -1,0 +1,38 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CHARTSONGENTRY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CHARTSONGENTRY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com"
+    },
+    {
+      "name": "Pitchfork",
+      "url": "https://pitchfork.com/"
+    },
+    {
+      "name": "relevant chart",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Rolling Stone",
+      "url": "https://www.rollingstone.com"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCHARTSONGENTRYADDISONRAE",
+  "title": "Will Addison Rae – “Diet Pepsi” Song Enter the Spotify Top 50 (US) by Friday?"
+}

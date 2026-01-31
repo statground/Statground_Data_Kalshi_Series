@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GAS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GAS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "U.S. Energy Information Agency",
+      "url": "https://www.eia.gov/dnav/pet/PET_PRI_GND_DCUS_NUS_W.htm"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXGAS-MONTH",
+  "title": "Gas monthly"
+}

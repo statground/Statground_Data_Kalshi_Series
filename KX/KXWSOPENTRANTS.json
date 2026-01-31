@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EVENTCOUNT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EVENTCOUNT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "WSOP",
+      "url": "https://www.wsop.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXWSOPENTRANTS",
+  "title": "How many Entrants in a WSOP Main Event"
+}

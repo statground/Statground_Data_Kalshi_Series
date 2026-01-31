@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CO2LEVEL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CO2LEVEL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "the National Aeronautics and Space Administration",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "with data provided by NOAA Global Monitoring Laboratory",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCO2LEVEL",
+  "title": "CO2 level"
+}

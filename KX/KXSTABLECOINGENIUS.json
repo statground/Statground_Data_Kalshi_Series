@@ -1,0 +1,42 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/STABLECOINGENIUS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/STABLECOINGENIUS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "issuer of stablecoin",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "relevant State Payment Stablecoin Regulator",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Board of Governors of the Federal Reserve System",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Federal Deposit Insurance Corporation",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the National Credit Union Administration",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Office of the Comptroller of the Currency",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the U",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSTABLECOINGENIUS",
+  "title": "Stablecoins approved"
+}

@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DRIVERS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DRIVERS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Alpha Data LLC (A division of Penske Media Corporation)",
+      "url": "https://music.alphadata.fm/"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "KXDRIVERS",
+  "title": "Drivers License #1 most-listened song"
+}

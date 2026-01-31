@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ROLEINPRODUCTIONCHARACTER.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ROLEINPRODUCTIONCHARACTER.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": " San Francisco Unified School District",
+      "url": "https://www.sfusd.edu/"
+    }
+  ],
+  "tags": [
+    "Movies"
+  ],
+  "ticker": "KXPERFORMROLEJEANGREY",
+  "title": "Will Sadie Sink be the next Marvel Jean Grey?"
+}

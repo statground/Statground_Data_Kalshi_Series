@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TRAVELWARNING.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TRAVELWARNING.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "the U",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "International"
+  ],
+  "ticker": "KXTRAVELDOWNGRADE",
+  "title": "Which countries will receive a lower US Travel Advisory level in 2026?"
+}

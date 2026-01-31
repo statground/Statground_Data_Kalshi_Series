@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GAMEAWARDS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GAMEAWARDS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Game Awards",
+      "url": "https://thegameawards.com/nominees/game-of-the-year"
+    }
+  ],
+  "tags": [
+    "Awards",
+    "Video games"
+  ],
+  "ticker": "KXGAMEAWARDSBSM",
+  "title": "Game Awards Best Score and Music"
+}

@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RENTFREEZE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RENTFREEZE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "NYC",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the NYC Rent Guidelines Board",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNYCRENTFREEZE",
+  "title": "NYC rent freeze"
+}

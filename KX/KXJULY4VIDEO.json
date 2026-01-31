@@ -1,0 +1,34 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/JULY4VIDEO.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/JULY4VIDEO.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Mark Zuckerberg's verified personal accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Meta's official accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "newsroom (about",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXJULY4VIDEO",
+  "title": "July 4 video"
+}

@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MORAESLEAVE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MORAESLEAVE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Government of Brazil",
+      "url": "https://portal.stf.jus.br/internacional/content.asp?id=120056&ori=2&idioma=en_us"
+    }
+  ],
+  "tags": [
+    "Culture war",
+    "International politics",
+    "SCOTUS & courts"
+  ],
+  "ticker": "MORAESLEAVE",
+  "title": "Alexandre de Moraes leaving"
+}

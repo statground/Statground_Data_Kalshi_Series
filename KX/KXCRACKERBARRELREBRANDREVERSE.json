@@ -1,0 +1,98 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/REBRANDREVERSE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/REBRANDREVERSE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbs.com"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "company",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Fox Business",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "MarketWatch",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbc.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "the Securities and Exchange Commission EDGAR database",
+      "url": "http://www.sec.gov/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCRACKERBARRELREBRANDREVERSE",
+  "title": "Cracker barrel rebrand reverse"
+}

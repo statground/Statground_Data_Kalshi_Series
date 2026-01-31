@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/LCPI.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/LCPI.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/cpi/"
+    }
+  ],
+  "tags": [
+    "Inflation"
+  ],
+  "ticker": "KXLCPIMAX",
+  "title": "Inflation surge"
+}

@@ -1,0 +1,42 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/XPAYMENT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/XPAYMENT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://ft.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXXPAYMENT",
+  "title": "X Payment"
+}

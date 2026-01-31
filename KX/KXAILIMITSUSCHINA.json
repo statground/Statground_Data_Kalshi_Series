@@ -1,0 +1,136 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/AILIMITS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/AILIMITS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "African Union",
+      "url": "https://au.int/"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Council of Europe",
+      "url": "https://www.coe.int"
+    },
+    {
+      "name": "European Union",
+      "url": "https://europa.eu"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://ft.com/"
+    },
+    {
+      "name": "G20",
+      "url": "https://www.g20.org/"
+    },
+    {
+      "name": "G7",
+      "url": "https://www.g7.org/"
+    },
+    {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr"
+    },
+    {
+      "name": "national legislative repositories of countries",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/"
+    },
+    {
+      "name": "OECD",
+      "url": "https://www.oecd.org"
+    },
+    {
+      "name": "official legal gazettes or treaty registries maintained by countries",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official sites of issuing bodies for multilateral agreements",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official websites of countries governments or their Ministries of Foreign Affairs",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "or Digital Affairs",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://semafor.com"
+    },
+    {
+      "name": "South China Morning Post",
+      "url": "https://www.scmp.com"
+    },
+    {
+      "name": "Süddeutsche Zeitung",
+      "url": "https://www.sueddeutsche.de"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "the United Nations",
+      "url": "https://www.un.org"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": [
+    "AI"
+  ],
+  "ticker": "KXAILIMITSUSCHINA",
+  "title": "US China"
+}

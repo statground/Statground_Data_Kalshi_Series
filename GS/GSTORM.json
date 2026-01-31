@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GSTORM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GSTORM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Space Weather Prediction Center at the National Oceanic and Atmospheric Administration",
+      "url": "https://services.swpc.noaa.gov/text/daily-geomagnetic-indices.txt"
+    }
+  ],
+  "tags": [
+    "Space"
+  ],
+  "ticker": "GSTORM",
+  "title": "Geomagnetic Storm"
+}

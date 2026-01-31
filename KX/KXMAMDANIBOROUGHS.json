@@ -1,0 +1,94 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NYCBOROUGHWIN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NYCBOROUGHWIN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "City & State New York",
+      "url": "https://www.cityandstateny.com"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "Gothamist",
+      "url": "https://gothamist.com"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "New York Daily News",
+      "url": "https://www.nydailynews.com/"
+    },
+    {
+      "name": "New York Post",
+      "url": "https://nypost.com/"
+    },
+    {
+      "name": "NY1",
+      "url": "https://www.ny1.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://semafor.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "THE CITY",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "the New York City Board of Elections",
+      "url": "https://www.vote.nyc/"
+    },
+    {
+      "name": "the New York State Board of Elections",
+      "url": "https://www.elections.ny.gov/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "WNYC",
+      "url": "https://www.wnyc.org"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMAMDANIBOROUGHS",
+  "title": "Mamdani Boroughs"
+}

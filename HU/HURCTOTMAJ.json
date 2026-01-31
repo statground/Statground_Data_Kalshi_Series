@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/LTHUR.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/LTHUR.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "National Oceanic and Atmospheric Administration",
+      "url": "https://www.nhc.noaa.gov/"
+    }
+  ],
+  "tags": [
+    "Hurricanes",
+    "Natural disasters"
+  ],
+  "ticker": "HURCTOTMAJ",
+  "title": "Number of major hurricanes"
+}

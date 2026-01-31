@@ -1,0 +1,64 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SPINOFF.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SPINOFF.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com/"
+    },
+    {
+      "name": "Vulture",
+      "url": "https://www.vulture.com/"
+    }
+  ],
+  "tags": [
+    "Television"
+  ],
+  "ticker": "KXSPINOFFSEV",
+  "title": "Severance spinoff"
+}

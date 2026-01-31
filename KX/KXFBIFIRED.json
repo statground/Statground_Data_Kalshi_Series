@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FBIFIRED.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FBIFIRED.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXFBIFIRED",
+  "title": "FBI Director fired"
+}

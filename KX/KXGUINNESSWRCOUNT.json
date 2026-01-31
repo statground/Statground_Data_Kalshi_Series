@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GUINNESSWRCOUNT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GUINNESSWRCOUNT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "The Source is Guinness World Records Limited",
+      "url": "https://guinnessworldrecords.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXGUINNESSWRCOUNT",
+  "title": "Guinness World Record count"
+}

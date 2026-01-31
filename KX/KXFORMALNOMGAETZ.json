@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FORMALNOM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FORMALNOM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Library of Congress",
+      "url": "https://congress.gov"
+    },
+    {
+      "name": "U.S. Senate",
+      "url": "https://www.rules.senate.gov/rules-of-the-senate"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXFORMALNOMGAETZ",
+  "title": "Gaetz formally nominated"
+}

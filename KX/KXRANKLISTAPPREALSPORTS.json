@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RANKLISTAPP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RANKLISTAPP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com"
+    }
+  ],
+  "tags": [
+    "Football"
+  ],
+  "ticker": "KXRANKLISTAPPREALSPORTS",
+  "title": "Will 'Real Sports' be a top 10 sports app before Nov 15th, 2025?"
+}

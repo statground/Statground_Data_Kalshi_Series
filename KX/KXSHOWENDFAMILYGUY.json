@@ -1,0 +1,54 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SHOWEND.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SHOWEND.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Deadline",
+      "url": "https://deadline.com"
+    },
+    {
+      "name": "Entertainment Weekly",
+      "url": "https://www.google.com/search?q=Entertainment+Weekly"
+    },
+    {
+      "name": "producing network or streaming service of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "production company of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wrap",
+      "url": "https://www.thewrap.com"
+    },
+    {
+      "name": "TVLine",
+      "url": "https://tvline.com"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSHOWENDFAMILYGUY",
+  "title": "WILL FAMILY GUY END "
+}

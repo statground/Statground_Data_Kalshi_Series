@@ -1,0 +1,31 @@
+{
+  "additional_prohibitions": [
+    " Holders of national and regional public office, including the President and Vice President of Uruguay, Members of the General Assembly of Uruguay (both Senators and Representatives), and elected departmental and municipal officials.",
+    "Paid campaign staffers on presidential campaigns.",
+    "Anyone working in a vote-tallying capacity, or who has the potential ability to observe official vote counts before they are public",
+    "Third-party vendors and contractors (and employees thereof) involved in electoral campaigns",
+    "Paid employees of Uruguayan political parties, including but not limited to the National Party (Partido Nacional), the Broad Front (Frente Amplio), the Colorado Party (Partido Colorado), the Independent Party (Partido Independiente), and Open Cabildo (Cabildo Abierto).",
+    "Paid employees of major polling organizations. This prohibition does not apply to all employees of an organization that contains a polling division (e.g., the prohibition does not apply to all employees of a university that conducts polling). The Exchange shall determine which polling organizations constitute \"major\" and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "Employees of major Uruguayan media organizations (including, but not necessarily exclusive to, El País, El Observador, La República, and Búsqueda). The Exchange shall determine which media organizations constitute \"major\" and may modify that determination at any time, and will post publicly a list of those organizations on its website",
+    "All staff of the Office of the President and Vice President.",
+    "All staff of the General Assembly and its members.",
+    "All staff of the Supreme Court of Uruguay and its Justices."
+  ],
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PRESURUGUAY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PRESURUGUAY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "AP",
+      "url": "https://apnews.com/"
+    }
+  ],
+  "tags": [
+    "Foreign Elections"
+  ],
+  "ticker": "KXPRESURUGUAY",
+  "title": "2024 Uruguayan presidential election"
+}

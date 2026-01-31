@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/VETO.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/VETO.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "United States Congress",
+      "url": "https://www.congress.gov/"
+    },
+    {
+      "name": "White House",
+      "url": "https://whitehouse.gov/"
+    }
+  ],
+  "tags": [
+    "Trump"
+  ],
+  "ticker": "KXVETOCOUNT",
+  "title": "Trump vetoes"
+}

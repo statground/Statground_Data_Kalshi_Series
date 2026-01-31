@@ -1,0 +1,28 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/KNESSET.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/KNESSET.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Haaretz",
+      "url": "https://www.haaretz.com/"
+    },
+    {
+      "name": "Knesset",
+      "url": "https://www.gov.il/en/departments/knesset/govil-landing-page"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "tags": [
+    "Foreign Elections"
+  ],
+  "ticker": "KXKNESSET",
+  "title": "Knesset dissolution"
+}

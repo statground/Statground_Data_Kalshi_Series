@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/LGDP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/LGDP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Bureau of Economic Analysis",
+      "url": "https://apps.bea.gov/iTable/iTable.cfm?reqid=19&step=2#reqid=19&step=2&isuri=1&1921=survey"
+    }
+  ],
+  "tags": [
+    "Growth"
+  ],
+  "ticker": "GDPUSMAX",
+  "title": "US GDP peak "
+}

@@ -1,0 +1,90 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SECONDPLACE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SECONDPLACE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC News",
+      "url": "https://abcnews.go.com"
+    },
+    {
+      "name": "Ballotpedia",
+      "url": "https://ballotpedia.org"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Federal Election Commission",
+      "url": "https://www.fec.gov"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://www.marginalrevolution.com/"
+    },
+    {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "NPR",
+      "url": "https://www.npr.org/"
+    },
+    {
+      "name": "official election authority responsible for certifying results in ",
+      "url": "https://www.nass.org/can-I-vote"
+    },
+    {
+      "name": "official government website of ",
+      "url": "https://www.usa.gov/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Secretary of State of ",
+      "url": "https://www.nass.org/can-I-vote"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Source Agencies are NASA Goddard Institute for Space Studies",
+      "url": "https://www.giss.nasa.gov/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXJAPANHOC2ND",
+  "title": "Japan House of Councilors 2nd"
+}

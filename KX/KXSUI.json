@@ -1,0 +1,46 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BLOCKCHAINTVL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BLOCKCHAINTVL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com"
+    },
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com"
+    },
+    {
+      "name": "DeBank",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "DeFiLlama",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Dune Analytics",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "L2Beat.com",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official foundation or development team of blockchain",
+      "url": "http://ton.org"
+    },
+    {
+      "name": "The Block",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSUI",
+  "title": "SUI TVL"
+}

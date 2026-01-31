@@ -1,0 +1,110 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/INTERSTELLARDISTANCE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/INTERSTELLARDISTANCE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Astronomy & Astrophysics",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CNSA",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Icarus",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "JAXA",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Monthly Notices of the Royal Astronomical Society",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "NASA official announcements",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "NASA's Jet Propulsion Laboratory Center for Near Earth Object Studies",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Nature",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "peer-reviewed scientific journals publishing orbital determinations",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Roscosmos",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Science",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Scientific American",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Space",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The Astrophysical Journal",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the European Space Agency's Space Situational Awareness Programme",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Indian Space Research Organisation",
+      "url": "https://www.isro.gov.in"
+    },
+    {
+      "name": "The International Astronomical Union",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Minor Planet Center",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Planetary Science Journal",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXDISTANCE3IATLAS",
+  "title": "3I/ATLAS distance"
+}

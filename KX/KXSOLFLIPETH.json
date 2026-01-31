@@ -1,0 +1,28 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CRYPTOMARKETCAPCOMP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CRYPTOMARKETCAPCOMP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com"
+    },
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com"
+    },
+    {
+      "name": "DefiLlama",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "SOL"
+  ],
+  "ticker": "KXSOLFLIPETH",
+  "title": "SOL flip ETH"
+}

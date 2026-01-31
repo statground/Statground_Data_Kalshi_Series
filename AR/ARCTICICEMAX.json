@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ARCTICICE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ARCTICICE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "National Snow & Ice Data Center",
+      "url": "https://nsidc.org/data/seaice_index/archives"
+    }
+  ],
+  "tags": [
+    "Climate change"
+  ],
+  "ticker": "ARCTICICEMAX",
+  "title": "Arctic sea ice max extent"
+}

@@ -1,0 +1,112 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/LAW.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/LAW.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "geography’s official government websites",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "in hierarchical order: geography’s legislative bodies",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "major newspapers in geography",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "relevant governmental agency in geography",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://semafor.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the Federal Register",
+      "url": "https://www.federalregister.gov/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The United States Congress",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "The White House",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "Local"
+  ],
+  "ticker": "KXNYCCHILDCARE",
+  "title": "Will Mamdani establish universal child care before 2027?"
+}

@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NYCCOUNCIL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NYCCOUNCIL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "City of New York",
+      "url": "https://www.nyc.gov/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNYCCOUNCIL8",
+  "title": "NYC City Council District 8"
+}

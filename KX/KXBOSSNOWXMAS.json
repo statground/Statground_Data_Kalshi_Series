@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SNOWOVERTIME.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SNOWOVERTIME.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "the National Weather Service",
+      "url": "https://www.weather.gov"
+    }
+  ],
+  "tags": [
+    "Snow and rain"
+  ],
+  "ticker": "KXBOSSNOWXMAS",
+  "title": "Boston White Christmas"
+}

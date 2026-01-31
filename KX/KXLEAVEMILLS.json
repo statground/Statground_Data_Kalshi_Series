@@ -1,0 +1,68 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EFFECTIVELEAVE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EFFECTIVELEAVE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "official government records and registries",
+      "url": "https://kalshi.com"
+    },
+    {
+      "name": "person",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the body, agency, company, organization, or entity at which role is held",
+      "url": "https://kalshi.com"
+    },
+    {
+      "name": "the New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": [
+    "Congress"
+  ],
+  "ticker": "KXLEAVEMILLS",
+  "title": "Cory Mills leaves office before the midterms?"
+}

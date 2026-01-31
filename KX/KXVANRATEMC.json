@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Transportation",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/VANRATE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/VANRATE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "Truckstop.com",
+      "url": "https://www.truckstop.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXVANRATEMC",
+  "title": "Mountain Central Freight Rates (Truckstop.com dry van rates)"
+}

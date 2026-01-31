@@ -1,0 +1,42 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/LAWEFFECT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/LAWEFFECT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "etc",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "in hierarchical order: the official government gazette or legal publication system of geography",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official statements from geography's head of government or designated enforcement authority",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official website of geography's judiciary or highest court",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official website of geography's primary legislative body",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "relevant superior jurisdiction sources (federal/national sources for state/provincial law",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXUNIVERSALCHILDCARE",
+  "title": "Will Mamdani establish universal child care before 2027?"
+}

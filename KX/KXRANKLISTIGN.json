@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RANKLISTVIDEOGAMES.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RANKLISTVIDEOGAMES.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Google Trends",
+      "url": "https://trends.google.com/home"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXRANKLISTIGN",
+  "title": "IGN BEST VIDEO GAME"
+}

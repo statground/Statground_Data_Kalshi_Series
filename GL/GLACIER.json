@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GLACIER.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GLACIER.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Supreme Court",
+      "url": "https://www.supremecourt.gov"
+    }
+  ],
+  "tags": [
+    "SCOTUS & courts"
+  ],
+  "ticker": "GLACIER",
+  "title": "Teamsters (SCOTUS)"
+}

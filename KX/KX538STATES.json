@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/538STATES.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/538STATES.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/polls/president-primary-r/2024/national/"
+    }
+  ],
+  "tags": [
+    "US Elections"
+  ],
+  "ticker": "KX538STATES",
+  "title": "538 states"
+}

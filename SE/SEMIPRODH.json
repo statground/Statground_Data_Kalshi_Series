@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SEMIPROD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SEMIPROD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Board of Governors of the Federal Reserve",
+      "url": "https://www.federalreserve.gov/releases/g17/Current/g17.pdf"
+    }
+  ],
+  "tags": [
+    "AI"
+  ],
+  "ticker": "SEMIPRODH",
+  "title": "US Semiconductor production"
+}

@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/2KCOVER.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/2KCOVER.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "2K Sports",
+      "url": "https://2k.com/"
+    }
+  ],
+  "tags": [
+    "Video games"
+  ],
+  "ticker": "KXNBA2KCOVER",
+  "title": "Who will be on the cover of NBA 2k?"
+}

@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NYCHOT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NYCHOT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/product.php?site=OKX&product=CLI&issuedby=NYC"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNYCHOT",
+  "title": "NYC heat"
+}
