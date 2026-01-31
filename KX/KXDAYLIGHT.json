@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DAYLIGHT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DAYLIGHT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Library of Congress",
+      "url": "https://www.congress.gov/search?q=%7B%22bill-status%22%3A%22law%22%7D"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXDAYLIGHT",
+  "title": "Permanent Daylight Saving Time bill"
+}

@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": [
+    "SpaceX"
+  ],
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SPACEX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SPACEX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "FAA",
+      "url": "https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft"
+    }
+  ],
+  "tags": [
+    "Elon Musk",
+    "Product launches",
+    "Space"
+  ],
+  "ticker": "SPACEX",
+  "title": "SpaceX rocket launch"
+}

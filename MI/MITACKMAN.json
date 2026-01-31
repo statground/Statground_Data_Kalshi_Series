@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MITACKMAN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MITACKMAN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Bill Ackman",
+      "url": "https://twitter.com/BillAckman"
+    }
+  ],
+  "tags": [
+    "Culture war"
+  ],
+  "ticker": "MITACKMAN",
+  "title": "Number of MIT faculty Bill Ackman accuses of plagiarism"
+}

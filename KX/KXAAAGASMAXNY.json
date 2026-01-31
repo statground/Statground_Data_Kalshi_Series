@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/AAAGASMINMAX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/AAAGASMINMAX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "AAA",
+      "url": "https://gasprices.aaa.com/"
+    }
+  ],
+  "tags": [
+    "Oil and energy"
+  ],
+  "ticker": "KXAAAGASMAXNY",
+  "title": "NEW YORK highest gas price yearly"
+}

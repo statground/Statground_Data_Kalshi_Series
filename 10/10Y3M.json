@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/10Y3M.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/10Y3M.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Federal Reserve Bank of St. Louis",
+      "url": "https://fred.stlouisfed.org/series/T10Y3M"
+    }
+  ],
+  "tags": [
+    "Treasuries"
+  ],
+  "ticker": "10Y3M",
+  "title": "Treasury spread 10Y-3M"
+}

@@ -1,0 +1,70 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PAIDSUB.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PAIDSUB.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://ft.com/"
+    },
+    {
+      "name": "official announcements from  or its parent company",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official company SEC filings or investor relations materials",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official mobile applications of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official website of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://www.google.com/search?q=TechCrunch"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXPAIDSUBAPPLEINTEL",
+  "title": "Apple Intelligence"
+}

@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/WEEKND.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/WEEKND.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Alpha Data LLC (A division of Penske Media Corporation)",
+      "url": "https://music.alphadata.fm/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXWEEKND",
+  "title": "Weeknd album drop"
+}

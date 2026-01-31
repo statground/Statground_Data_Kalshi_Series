@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Transportation",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BOEING737MAX9.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BOEING737MAX9.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "FAA",
+      "url": "https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft"
+    }
+  ],
+  "tags": [
+    "Airlines & aviation"
+  ],
+  "ticker": "BOEING737MAX9",
+  "title": "737 Max 9 un-grounded"
+}

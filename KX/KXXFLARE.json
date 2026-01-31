@@ -1,0 +1,30 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/XFLARE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/XFLARE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "NASA Solar Dynamics Observatory",
+      "url": "https://sdo.gsfc.nasa.gov/"
+    },
+    {
+      "name": "the European Space Agency Space Weather Service",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Space_Weather"
+    },
+    {
+      "name": "the NOAA National Centers for Environmental Information",
+      "url": "https://www.ncei.noaa.gov"
+    },
+    {
+      "name": "the NOAA Space Weather Prediction Center",
+      "url": "https://www.swpc.noaa.gov/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXXFLARE",
+  "title": "X flare"
+}

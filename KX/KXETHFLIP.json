@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ETHFLIP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ETHFLIP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXETHFLIP",
+  "title": "ETH flipping"
+}

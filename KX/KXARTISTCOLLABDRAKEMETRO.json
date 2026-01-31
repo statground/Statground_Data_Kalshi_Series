@@ -1,0 +1,80 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ARTISTCOLLAB.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ARTISTCOLLAB.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Amazon Music",
+      "url": "https://music.amazon.com"
+    },
+    {
+      "name": "Apple Music",
+      "url": "https://music.apple.com"
+    },
+    {
+      "name": "artist 1",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "artist 2",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bandcamp",
+      "url": "https://bandcamp.com"
+    },
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com"
+    },
+    {
+      "name": "Complex",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Pitchfork",
+      "url": "https://pitchfork.com"
+    },
+    {
+      "name": "Rolling Stone",
+      "url": "https://www.rollingstone.com"
+    },
+    {
+      "name": "SoundCloud",
+      "url": "https://www.soundcloud.com"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://www.spotify.com"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com"
+    },
+    {
+      "name": "Tidal",
+      "url": "https://tidal.com"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com"
+    },
+    {
+      "name": "XXL Magazine",
+      "url": "https://www.xxlmag.com"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://music.youtube.com"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "KXARTISTCOLLABDRAKEMETRO",
+  "title": "WILL DRAKE AND METRO BOOMIN MAKE A SONG TOGETHER THIS YEAR"
+}

@@ -1,0 +1,78 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/INTERSTELLARSIZE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/INTERSTELLARSIZE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "CNSA",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "JAXA",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "NASA's Jet Propulsion Laboratory",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official observatory announcements from major ground-based telescopes",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official spacecraft mission announcements",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "peer-reviewed scientific journals",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Roscosmos",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Scientific American",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Space",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "space telescope teams",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the European Space Agency",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Indian Space Research Organisation",
+      "url": "https://www.isro.gov.in"
+    },
+    {
+      "name": "The International Astronomical Union",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Minor Planet Center",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSIZE3IATLAS",
+  "title": "Size 3I/ATLAS"
+}

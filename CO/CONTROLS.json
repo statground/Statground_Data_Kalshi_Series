@@ -1,0 +1,30 @@
+{
+  "additional_prohibitions": [
+    "Candidates for federal or statewide public office.",
+    "Paid campaign staffers on Congressional campaigns.",
+    "Paid employees of Democratic and Republican Party organizations.",
+    "Paid employees of Political Action Committees (PACs) and “Super PACs” (independent expenditure only political committees).",
+    "Paid employees of major polling organizations.",
+    "Existing members of Congress, including those not running for re-election.",
+    "Existing paid staffers of members of Congress.",
+    "Household members and immediate family members (siblings, children, and parents) of any of the above.",
+    "Any of the above listed institutions themselves."
+  ],
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CONTROL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CONTROL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Library of Congress",
+      "url": "https://www.congress.gov/"
+    }
+  ],
+  "tags": [
+    "US Elections"
+  ],
+  "ticker": "CONTROLS",
+  "title": "Senate winner"
+}

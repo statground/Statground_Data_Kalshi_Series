@@ -1,0 +1,76 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/QUARTERKPI.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/QUARTERKPI.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Barron's",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/"
+    },
+    {
+      "name": "company",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "federal government financial regulatory authorities",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com"
+    },
+    {
+      "name": "Fox Business",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "MarketWatch",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official investor relations website of company",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Seeking Alpha",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "KPIs"
+  ],
+  "ticker": "KXDISNEYSUBS",
+  "title": "Disney"
+}

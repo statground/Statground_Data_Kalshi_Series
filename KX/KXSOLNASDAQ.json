@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SOLNASDAQ.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SOLNASDAQ.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "flipthe.market",
+      "url": "https://www.flipthe.market/"
+    }
+  ],
+  "tags": [
+    "SOL"
+  ],
+  "ticker": "KXSOLNASDAQ",
+  "title": "SOL flipping Nasdaq this year"
+}

@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TOPPOD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TOPPOD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Spotify Charts",
+      "url": "https://charts.spotify.com/charts/view/regional-us-daily/latest"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTOPPOD",
+  "title": "Top podcast of the year"
+}

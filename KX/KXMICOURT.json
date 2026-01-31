@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/STATESUPREMECOURT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/STATESUPREMECOURT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "constitutional court or supreme court of  if election disputes are adjudicated",
+      "url": "https://www.venice.coe.int/webforms/documents/?pdf=CDL-JU(2020)004-e"
+    },
+    {
+      "name": "in hierarchical order: official state certificates of ascertainment from all fifty states and the District of Columbia",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "US Elections"
+  ],
+  "ticker": "KXMICOURT",
+  "title": "MI Supreme Court"
+}

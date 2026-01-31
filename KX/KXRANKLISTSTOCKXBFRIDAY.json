@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RANKLISTSTOCKX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RANKLISTSTOCKX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com"
+    }
+  ],
+  "tags": [
+    "StockX"
+  ],
+  "ticker": "KXRANKLISTSTOCKXBFRIDAY",
+  "title": "After Nike, Jordan, and Adidas - what will be the top brand based on Trades on StockX on Black Friday?"
+}

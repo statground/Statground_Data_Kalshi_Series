@@ -1,0 +1,74 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PRODUCTFUNCTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PRODUCTFUNCTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Associated Press Technology coverage",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Axios Technology newsletter",
+      "url": "https://axios.com"
+    },
+    {
+      "name": "Bloomberg Technology",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "company",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Engadget",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Politico Technology coverage",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "The New York Times Technology section",
+      "url": "https://nytimes.com"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Wall Street Journal Technology section",
+      "url": "https://wsj.com"
+    },
+    {
+      "name": "VentureBeat",
+      "url": "https://venturebeat.com"
+    },
+    {
+      "name": "Wired",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXGPTFEES",
+  "title": "GPT transaction fees"
+}

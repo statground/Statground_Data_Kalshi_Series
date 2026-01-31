@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SPOTIFYSONGRELEASE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SPOTIFYSONGRELEASE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Spotify",
+      "url": "https://open.spotify.com/"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "KXSPOTIFYSONGRELEASELDR",
+  "title": "Will Lana del Rey release a song by the end of the month?"
+}

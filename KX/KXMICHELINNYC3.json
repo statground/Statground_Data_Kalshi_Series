@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Social",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MICHELIN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MICHELIN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Michelin",
+      "url": "https://guide.michelin.com/us/en"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMICHELINNYC3",
+  "title": "3-star in NYC"
+}

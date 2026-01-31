@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EMERGENCYJAC.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EMERGENCYJAC.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "National Weather Service (Jackson, MS)",
+      "url": "https://forecast.weather.gov/product.php?site=JAN&product=CLI&issuedby=HKS"
+    }
+  ],
+  "tags": [
+    "Hurricanes"
+  ],
+  "ticker": "KXEMERGENCYJAC",
+  "title": "Natural disaster hits Jackson"
+}

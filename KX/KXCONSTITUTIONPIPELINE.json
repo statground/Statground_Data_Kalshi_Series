@@ -1,0 +1,38 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CONSTITUTIONPIPELINE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CONSTITUTIONPIPELINE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Constitution Pipeline Company LLC",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Federal Energy Regulatory Commission",
+      "url": "https://www.ferc.gov"
+    },
+    {
+      "name": "the Federal Register",
+      "url": "https://www.federalregister.gov/"
+    },
+    {
+      "name": "the New York State Department of Environmental Conservation",
+      "url": "https://www.dec.ny.gov"
+    },
+    {
+      "name": "the New York State Register",
+      "url": "https://www.dos.ny.gov/info/register.html"
+    },
+    {
+      "name": "Williams Companies Inc",
+      "url": "https://www.williams.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCONSTITUTIONPIPELINE",
+  "title": "Constitution pipeline"
+}

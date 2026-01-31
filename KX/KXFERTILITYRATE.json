@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Health",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FERTILITYRATE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FERTILITYRATE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Prevention",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the National Center for Health Statistics of the Centers for Disease Control",
+      "url": "https://www.cdc.gov/nchs/"
+    }
+  ],
+  "tags": [
+    "Health Tech"
+  ],
+  "ticker": "KXFERTILITYRATE",
+  "title": "FERTILITY RATE"
+}

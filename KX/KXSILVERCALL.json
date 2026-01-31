@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SILVERCALL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SILVERCALL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Silver Bulletin",
+      "url": "https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSILVERCALL",
+  "title": "Silver call 2024"
+}

@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Transportation",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TSAMINMAX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TSAMINMAX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Transportation Security Administration",
+      "url": "https://www.tsa.gov/coronavirus/passenger-throughput"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTSAMAX",
+  "title": "TSA min/max"
+}

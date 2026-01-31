@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ISM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ISM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ISM",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/"
+    }
+  ],
+  "tags": [
+    "KPIs"
+  ],
+  "ticker": "KXISMPMI",
+  "title": "ISM PMI"
+}

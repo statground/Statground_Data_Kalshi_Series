@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/REVCRYPTO.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/REVCRYPTO.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Blockworks",
+      "url": "https://blockworks.co/analytics/l1"
+    },
+    {
+      "name": "BLS",
+      "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXREVSOL",
+  "title": "REV ETH"
+}

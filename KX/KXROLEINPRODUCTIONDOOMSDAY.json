@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ROLEINPRODUCTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ROLEINPRODUCTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": " San Francisco Unified School District",
+      "url": "https://www.sfusd.edu/"
+    }
+  ],
+  "tags": [
+    "Movies"
+  ],
+  "ticker": "KXROLEINPRODUCTIONDOOMSDAY",
+  "title": "WHO WILL BE PLAYING WHAT IN AVENGERS DOOMSDAY"
+}

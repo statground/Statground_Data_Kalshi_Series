@@ -1,0 +1,23 @@
+{
+  "additional_prohibitions": [
+    "SpaceX"
+  ],
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SPACEXORBIT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SPACEXORBIT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/"
+    }
+  ],
+  "tags": [
+    "Elon Musk",
+    "Space"
+  ],
+  "ticker": "KXSPACEXORBIT",
+  "title": "Starship in orbit"
+}

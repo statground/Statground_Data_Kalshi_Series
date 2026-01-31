@@ -1,0 +1,58 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/VIDEOGAMERETURN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/VIDEOGAMERETURN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net"
+    },
+    {
+      "name": "game developer",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Game Informer",
+      "url": "https://www.gameinformer.com"
+    },
+    {
+      "name": "game publisher",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "GameSpot",
+      "url": "https://www.gamespot.com"
+    },
+    {
+      "name": "GamesRadar+",
+      "url": "https://www.gamesradar.com/"
+    },
+    {
+      "name": "IGN",
+      "url": "https://www.ign.com"
+    },
+    {
+      "name": "Kotaku",
+      "url": "https://kotaku.com"
+    },
+    {
+      "name": "PC Gamer",
+      "url": "https://www.pcgamer.com"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://polygon.technology"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXRETURNREREQ",
+  "title": "Characters returning Requiem "
+}

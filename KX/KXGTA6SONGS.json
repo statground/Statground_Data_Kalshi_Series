@@ -1,0 +1,25 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GTASONGS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GTASONGS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Kotaku",
+      "url": "https://kotaku.com"
+    },
+    {
+      "name": "Rockstar Games",
+      "url": "https://www.rockstargames.com/"
+    }
+  ],
+  "tags": [
+    "Music",
+    "Video games"
+  ],
+  "ticker": "KXGTA6SONGS",
+  "title": "What songs will be on GTA 6?"
+}

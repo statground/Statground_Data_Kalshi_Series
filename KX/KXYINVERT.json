@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/YINVERT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/YINVERT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Federal Reserve Bank of St. Louis",
+      "url": "https://fred.stlouisfed.org/series/T10Y2Y"
+    },
+    {
+      "name": "Federal Reserve Bank of St. Louis",
+      "url": "https://fred.stlouisfed.org/series/T10Y3M"
+    }
+  ],
+  "tags": [
+    "Treasuries"
+  ],
+  "ticker": "KXYINVERT",
+  "title": "Yield Curve Inversion"
+}

@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/JOBS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/JOBS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "weekly",
+  "settlement_sources": [
+    {
+      "name": "Department of Labor",
+      "url": "https://www.dol.gov/ui/data.pdf"
+    }
+  ],
+  "tags": [
+    "Employment"
+  ],
+  "ticker": "KXJOBLESS",
+  "title": "Initial jobless claims"
+}

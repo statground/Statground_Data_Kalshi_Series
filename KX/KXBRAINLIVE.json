@@ -1,0 +1,30 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BRAINLIVE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BRAINLIVE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Food and Drug Administration",
+      "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/"
+    },
+    {
+      "name": "Neuralink",
+      "url": "https://neuralink.com/"
+    },
+    {
+      "name": "Science Magazine",
+      "url": "https://www.sciencemag.org"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXBRAINLIVE",
+  "title": "Live stream brain data"
+}

@@ -1,0 +1,19 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/POLLINGAPPROVALINPERIOD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/POLLINGAPPROVALINPERIOD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "Trump"
+  ],
+  "ticker": "KXTRUMPAPPROVALBELOW",
+  "title": "How low will Trump's approval get this year?"
+}

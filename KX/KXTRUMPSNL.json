@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TRUMPSNL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TRUMPSNL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Saturday Night Live",
+      "url": "https://www.nbc.com/saturday-night-live"
+    }
+  ],
+  "tags": [
+    "Trump"
+  ],
+  "ticker": "KXTRUMPSNL",
+  "title": "Trump on SNL"
+}

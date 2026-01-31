@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SILVERSTATES.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SILVERSTATES.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Silver Bulletin",
+      "url": "https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model"
+    }
+  ],
+  "tags": [
+    "US Elections"
+  ],
+  "ticker": "KXSILVERSTATES",
+  "title": "Silver states in 2024 election"
+}

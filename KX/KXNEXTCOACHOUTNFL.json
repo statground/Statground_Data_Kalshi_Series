@@ -1,0 +1,82 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NEXTCOACHOUT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NEXTCOACHOUT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC Sports",
+      "url": "https://www.google.com/search?q=ABC+Sports"
+    },
+    {
+      "name": "Athletic",
+      "url": "https://www.google.com/search?q=Athletic"
+    },
+    {
+      "name": "Bleacher Report",
+      "url": "https://www.google.com/search?q=Bleacher+Report"
+    },
+    {
+      "name": "CBS Sports",
+      "url": "https://www.google.com/search?q=CBS+Sports"
+    },
+    {
+      "name": "coaches",
+      "url": "https://www.google.com/search?q=coaches"
+    },
+    {
+      "name": "communications",
+      "url": "https://www.google.com/search?q=communications"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com/"
+    },
+    {
+      "name": "NBC Sports",
+      "url": "https://www.google.com/search?q=NBC+Sports"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "official  website",
+      "url": "https://www.google.com/search?q=official+<league>+website"
+    },
+    {
+      "name": "official social media accounts of the teams",
+      "url": "https://www.google.com/search?q=official+social+media+accounts+of+the+teams"
+    },
+    {
+      "name": "official team websites",
+      "url": "https://www.google.com/search?q=official+team+websites"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "USA Today",
+      "url": "https://www.usatoday.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNEXTCOACHOUTNFL",
+  "title": "Next Coach Out Pro Football"
+}

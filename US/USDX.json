@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/USDX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/USDX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "ICE",
+      "url": "https://www.cnbc.com/quotes/.DXY"
+    }
+  ],
+  "tags": null,
+  "ticker": "USDX",
+  "title": "De-dollarization: USD index yearly low"
+}

@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TOPALBUM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TOPALBUM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/charts/billboard-200/"
+    }
+  ],
+  "tags": [
+    "Music",
+    "Music charts"
+  ],
+  "ticker": "KXMORGANWALLEN",
+  "title": "Morgan Wallen Top 200 #1"
+}

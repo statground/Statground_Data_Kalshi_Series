@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NBAAWARD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NBAAWARD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "NBA",
+      "url": "https://www.nba.com/"
+    }
+  ],
+  "tags": [
+    "Basketball"
+  ],
+  "ticker": "KXNBACLUTCH",
+  "title": "Pro Basketball Clutch Player of the Year"
+}

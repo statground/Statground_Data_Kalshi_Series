@@ -1,0 +1,86 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CITYHOST.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CITYHOST.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "BBC Sport",
+      "url": "https://www.google.com/search?q=BBC+Sport"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    },
+    {
+      "name": "FIFA",
+      "url": "https://www.fifa.com"
+    },
+    {
+      "name": "Formula 1",
+      "url": "https://www.formula1.com"
+    },
+    {
+      "name": "official government announcements from the potential host cities",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official host city announcement documents",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official organizing body for ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official website of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "relevant international sporting federation for  if applicable",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Sky Sports",
+      "url": "https://www.google.com/search?q=Sky+Sports"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    },
+    {
+      "name": "the International Olympic Committee",
+      "url": "https://www.olympic.org"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "UEFA",
+      "url": "https://www.uefa.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXEUROVISIONHOST",
+  "title": "Eurovision city host"
+}

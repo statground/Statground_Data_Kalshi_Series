@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/538APPROVE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/538APPROVE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/polls/approval/donald-trump/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KX538APPROVEY",
+  "title": "President 538 approval rating yearly"
+}

@@ -1,0 +1,52 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PLAYERSTART.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PLAYERSTART.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "CBS Sports",
+      "url": "https://www.cbssports.com"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com"
+    },
+    {
+      "name": "league governing the sport in which  competes",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official league transaction wires",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official team beat reporters",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "'s official website and communications",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Athletic",
+      "url": "https://theathletic.com"
+    }
+  ],
+  "tags": [
+    "Football"
+  ],
+  "ticker": "KXSTARTNOSAINTS",
+  "title": "NEW ORLEANS WEEK 1 QB"
+}

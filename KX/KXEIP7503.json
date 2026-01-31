@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EIP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EIP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "EIP repository",
+      "url": "https://github.com/ethereum/EIPs"
+    },
+    {
+      "name": "Ethereum Foundation",
+      "url": "https://ethereum.foundation/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXEIP7503",
+  "title": "7503"
+}

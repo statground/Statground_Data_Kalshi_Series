@@ -1,0 +1,50 @@
+{
+  "additional_prohibitions": null,
+  "category": "Social",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MAXVIEWS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MAXVIEWS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Dexerto",
+      "url": "https://www.dexerto.com"
+    },
+    {
+      "name": "Dot Esports",
+      "url": "https://dotesports.com"
+    },
+    {
+      "name": "ESPN Esports",
+      "url": "https://www.espn.com/esports/"
+    },
+    {
+      "name": "official announcements by person/team on Twitter/X",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "platform official statistics",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://www.polygon.com"
+    },
+    {
+      "name": "Social Blade",
+      "url": "https://socialblade.com"
+    },
+    {
+      "name": "The Loadout",
+      "url": "https://www.theloadout.com"
+    },
+    {
+      "name": "TwitchTracker",
+      "url": "https://twitchtracker.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCAEDRELVIEWERSWORLDS",
+  "title": "Caedrel viewers Worlds"
+}

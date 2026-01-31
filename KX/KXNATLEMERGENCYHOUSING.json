@@ -1,0 +1,28 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PRESACTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PRESACTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Federal Register",
+      "url": "https://www.federalregister.gov/"
+    },
+    {
+      "name": "the President of the United States",
+      "url": "https://www.whitehouse.gov/"
+    },
+    {
+      "name": "the White House",
+      "url": "https://www.whitehouse.gov"
+    }
+  ],
+  "tags": [
+    "Trump"
+  ],
+  "ticker": "KXNATLEMERGENCYHOUSING",
+  "title": "Housing"
+}

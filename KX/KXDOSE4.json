@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Health",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DOSE4.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DOSE4.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "CDC",
+      "url": "https://www.cdc.gov/media/archives.html?Sort=Article%20Date%3A%3Adesc"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXDOSE4",
+  "title": "CDC recommend second COVID-19 booster"
+}

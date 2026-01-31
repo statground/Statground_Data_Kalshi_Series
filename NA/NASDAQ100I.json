@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NASDAQ100I.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NASDAQ100I.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "hourly",
+  "settlement_sources": [
+    {
+      "name": "For example, Google Finance",
+      "url": "https://www.google.com/finance/quote/NDX:INDEXNASDAQ?hl=en"
+    }
+  ],
+  "tags": [
+    "Nasdaq"
+  ],
+  "ticker": "NASDAQ100I",
+  "title": "Nasdaq-100 hourly"
+}

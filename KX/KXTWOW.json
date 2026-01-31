@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TWOW.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TWOW.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "George R.R. Martin",
+      "url": "https://georgerrmartin.com/notablog/"
+    }
+  ],
+  "tags": [
+    "Product launches"
+  ],
+  "ticker": "KXTWOW",
+  "title": "Winds release date announced"
+}

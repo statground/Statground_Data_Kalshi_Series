@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SAG.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SAG.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "SAG-AFTRA",
+      "url": "https://www.sagaftrastrike.org/news-messages-feed/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSAG",
+  "title": "Actors strike ends"
+}

@@ -1,0 +1,42 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PURCHASECOUNT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PURCHASECOUNT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "GameSpot",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "IGN",
+      "url": "https://www.ign.com"
+    },
+    {
+      "name": "Kotaku",
+      "url": "https://kotaku.com"
+    },
+    {
+      "name": "PC Gamer",
+      "url": "https://www.pcgamer.com"
+    },
+    {
+      "name": "player",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Riot Games",
+      "url": "https://lolesports.com/en-GB/tournament/113470835034591734/stage/113470862151614513"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXODINVCTFINALS",
+  "title": "Odin VCT finals"
+}

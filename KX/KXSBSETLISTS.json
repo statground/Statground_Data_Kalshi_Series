@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SBSETLISTS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SBSETLISTS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com/"
+    }
+  ],
+  "tags": [
+    "Football"
+  ],
+  "ticker": "KXSBSETLISTS",
+  "title": "Super Bowl setlist"
+}

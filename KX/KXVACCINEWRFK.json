@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/VACCEINWRFK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/VACCEINWRFK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Food and Drug Administration",
+      "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXVACCINEWRFK",
+  "title": "RFK killing vaccines"
+}

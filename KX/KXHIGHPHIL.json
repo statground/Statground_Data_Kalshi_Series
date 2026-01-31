@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PHILHIGH.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PHILHIGH.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "NWS Climatological Report",
+      "url": "https://forecast.weather.gov/product.php?site=PHI&product=CLI&issuedby=PHL"
+    }
+  ],
+  "tags": [
+    "Daily temperature"
+  ],
+  "ticker": "KXHIGHPHIL",
+  "title": "Highest temperature in Philadelphia"
+}

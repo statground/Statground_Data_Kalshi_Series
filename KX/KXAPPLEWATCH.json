@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/AAPLWATCH.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/AAPLWATCH.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Apple",
+      "url": "https://www.apple.com"
+    }
+  ],
+  "tags": [
+    "Product launches"
+  ],
+  "ticker": "KXAPPLEWATCH",
+  "title": "Apple watch sales banned at the end of January"
+}

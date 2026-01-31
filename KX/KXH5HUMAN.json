@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Health",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/H5HUMAN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/H5HUMAN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "CDC",
+      "url": "https://www.cdc.gov/index.html"
+    },
+    {
+      "name": "WHO",
+      "url": "https://www.who.int/emergencies/situations"
+    }
+  ],
+  "tags": [
+    "Diseases"
+  ],
+  "ticker": "KXH5HUMAN",
+  "title": "Human to human transmission of H5"
+}

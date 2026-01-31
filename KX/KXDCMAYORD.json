@@ -1,0 +1,44 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/USELECTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/USELECTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Attorney General of the United States",
+      "url": "https://www.justice.gov/ag"
+    },
+    {
+      "name": "in hierarchical order: the relevant state Secretary of State or chief election officer",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "relevant city/municipal clerk",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "relevant county clerk or board of elections",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "state board of elections or canvassing board",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Federal Election Commission",
+      "url": "https://www.fec.gov"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "US Elections"
+  ],
+  "ticker": "KXDCMAYORD",
+  "title": "Who will win the Democratic primary for DC Mayor?"
+}

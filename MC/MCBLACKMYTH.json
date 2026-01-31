@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": [
+    "Metacritic"
+  ],
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/METACRITIC.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/METACRITIC.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Metacritic",
+      "url": "https://www.metacritic.com/game/"
+    }
+  ],
+  "tags": [
+    "Video games"
+  ],
+  "ticker": "MCBLACKMYTH",
+  "title": "Black Myth Wukong Metacritic scores"
+}

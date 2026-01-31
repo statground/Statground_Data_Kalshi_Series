@@ -1,0 +1,28 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CREDITRATING.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CREDITRATING.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Fitch",
+      "url": "https://www.fitchratings.com/sovereigns"
+    },
+    {
+      "name": "Moody's",
+      "url": "https://www.moodys.com/Pages/Sovereign-Default-Research.aspx"
+    },
+    {
+      "name": "Standard & Poor's",
+      "url": "https://disclosure.spglobal.com/sri/"
+    }
+  ],
+  "tags": [
+    "Growth"
+  ],
+  "ticker": "KXCREDITRATING",
+  "title": "US credit rating downgrade"
+}

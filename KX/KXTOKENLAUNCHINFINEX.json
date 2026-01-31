@@ -1,0 +1,120 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TOKENLAUNCH.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TOKENLAUNCH.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Arbiscan",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "Base Explorer",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Binance Chain Explorer",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "Coinbase",
+      "url": "https://investor.coinbase.com/financials/quarterly-results/default.aspx"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/"
+    },
+    {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com"
+    },
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com"
+    },
+    {
+      "name": "CoinTelegraph",
+      "url": "https://bitchat.free/"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "DeFi Llama",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Etherscan",
+      "url": "https://counterparty.io/"
+    },
+    {
+      "name": "Kraken",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "major cryptocurrency exchanges including Binance",
+      "url": "http://www.binance.com/"
+    },
+    {
+      "name": "official blockchain explorers for the relevant networks",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "OKX",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Polygonscan",
+      "url": "https://polygon.technology/"
+    },
+    {
+      "name": "project",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Solscan",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Block",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": [
+    "Pre-Market"
+  ],
+  "ticker": "KXTOKENLAUNCHINFINEX",
+  "title": "Infinex token"
+}

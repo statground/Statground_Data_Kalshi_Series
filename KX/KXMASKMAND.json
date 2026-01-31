@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MASK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MASK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "New York City Mayor’s Office",
+      "url": "https://www1.nyc.gov/office-of-the-mayor/news.page"
+    },
+    {
+      "name": "New York State Governor’s Office",
+      "url": "https://www.governor.ny.gov/news"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMASKMAND",
+  "title": "NYC indoor mask mandate"
+}

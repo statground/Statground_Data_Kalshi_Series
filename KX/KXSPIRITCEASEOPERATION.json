@@ -1,0 +1,74 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CEASEOPERATION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CEASEOPERATION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "any industry trade publication with coverage of entity's sector",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "any relevant federal regulatory agency with jurisdiction over entity",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "any relevant state regulatory agency with jurisdiction over entity",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "entity",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official websites and social media accounts of the relevant entities",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "press releases distributed through major wire services",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "relevant Secretary of State office for the jurisdiction of incorporation or organization",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "the Securities and Exchange Commission",
+      "url": "https://www.sec.gov"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSPIRITCEASEOPERATION",
+  "title": "Spirit"
+}

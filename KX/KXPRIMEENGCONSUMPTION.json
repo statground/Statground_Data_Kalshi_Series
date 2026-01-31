@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PRIMENGCONSUMPTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PRIMENGCONSUMPTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Our World in Data",
+      "url": "https://ourworldindata.org/grapher/global-primary-energy"
+    },
+    {
+      "name": "the Statistical Review of World Energy",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXPRIMEENGCONSUMPTION",
+  "title": "Prime energy source"
+}

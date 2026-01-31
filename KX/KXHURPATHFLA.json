@@ -1,0 +1,68 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/HURPATH.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/HURPATH.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "AccuWeather",
+      "url": "https://www.accuweather.com"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CNN Weather",
+      "url": "https://weather.com/"
+    },
+    {
+      "name": "National Oceanic and Atmospheric Administration",
+      "url": "https://www.noaa.gov/"
+    },
+    {
+      "name": "National Weather Service",
+      "url": "https://www.weather.gov/wrh/climate?wfo=crp"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "the National Hurricane Center",
+      "url": "https://www.nhc.noaa.gov"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "The Weather Channel",
+      "url": "https://weather.com"
+    }
+  ],
+  "tags": [
+    "Hurricanes"
+  ],
+  "ticker": "KXHURPATHFLA",
+  "title": "hurricane hits florida"
+}

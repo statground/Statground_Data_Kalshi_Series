@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GOLDENGLOBESNOM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GOLDENGLOBESNOM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Golden Globes",
+      "url": "https://goldenglobes.com/"
+    }
+  ],
+  "tags": [
+    "Awards"
+  ],
+  "ticker": "KXGGGNOMDRAMAFILM",
+  "title": " Best Motion Picture - Drama"
+}

@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GERMANGOVT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GERMANGOVT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "government of Germany",
+      "url": "https://www.bundestag.de/en"
+    },
+    {
+      "name": "Politico EU",
+      "url": "https://www.politico.eu/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXGERMANGOVT",
+  "title": "Length of German coalition-building"
+}

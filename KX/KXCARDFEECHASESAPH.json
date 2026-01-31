@@ -1,0 +1,74 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CARDFEE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CARDFEE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com"
+    },
+    {
+      "name": "Doctor of Credit",
+      "url": "https://www.doctorofcredit.com/"
+    },
+    {
+      "name": "Frequent Miler",
+      "url": "https://frequentmiler.com"
+    },
+    {
+      "name": "official cardholder communications archived by cardholders",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official  mobile applications",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official  press releases",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official social media accounts of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official website of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "regulatory filings with the Consumer Financial Protection Bureau",
+      "url": "https://www.consumerfinance.gov/regulatory-filing/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "SEC filings",
+      "url": "https://www.sec.gov/edgar/searchedgar/webusers.htm"
+    },
+    {
+      "name": "Terms and Conditions updates on issuer websites",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Points Guy",
+      "url": "https://thepointsguy.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCARDFEECHASESAPH",
+  "title": "Chase Sapphire Preferred fee"
+}

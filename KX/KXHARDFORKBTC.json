@@ -1,0 +1,30 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/HARDFORK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/HARDFORK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Blockchain",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "major blockchain explorers for cryptocurrency (including but not limited to Blockchair",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official development team or foundation of cryptocurrency",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official GitHub repository of cryptocurrency",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXHARDFORKBTC",
+  "title": "BTC hard fork"
+}

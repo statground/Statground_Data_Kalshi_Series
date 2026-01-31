@@ -1,0 +1,49 @@
+{
+  "additional_prohibitions": null,
+  "category": "Social",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SOCIALMETRIC.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SOCIALMETRIC.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com"
+    },
+    {
+      "name": "official API documentation from ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official statements from 's corporate communications or investor relations",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Social Media Today",
+      "url": "https://socialmediatoday.com"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTSWIFTLIKES",
+  "title": "Taylor Swift likes"
+}

@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/LSNOWNY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/LSNOWNY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "NOAA",
+      "url": "https://www.ncdc.noaa.gov/cdo-web/datasets/LCD/stations/WBAN:94728/detail"
+    }
+  ],
+  "tags": [
+    "Snow and rain"
+  ],
+  "ticker": "KXSNOWNYM",
+  "title": "Total snow in NYC"
+}

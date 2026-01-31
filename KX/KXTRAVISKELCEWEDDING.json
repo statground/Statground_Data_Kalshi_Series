@@ -1,0 +1,46 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/WEDDINGPARTY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/WEDDINGPARTY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Complex",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "official websites and social media accounts of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "People",
+      "url": "https://people.com/"
+    },
+    {
+      "name": "Rolling Stone",
+      "url": "https://www.rollingstone.com"
+    },
+    {
+      "name": "TMZ",
+      "url": "https://www.tmz.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com"
+    },
+    {
+      "name": "Vogue",
+      "url": "https://www.vogue.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTRAVISKELCEWEDDING",
+  "title": "TRAVIS KELCE WEDDING"
+}

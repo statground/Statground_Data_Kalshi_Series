@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RAINNO.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RAINNO.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "National Weather Service",
+      "url": "https://www.weather.gov/wrh/climate?wfo=lix"
+    }
+  ],
+  "tags": null,
+  "ticker": "RAINNO",
+  "title": "New Orleans rain"
+}

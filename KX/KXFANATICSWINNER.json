@@ -1,0 +1,26 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FANATICSWINNER.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FANATICSWINNER.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    },
+    {
+      "name": "Fanatics Fest",
+      "url": "https://www.fanaticsfest.com/"
+    },
+    {
+      "name": "Fanatics Inc",
+      "url": "https://www.fanatics.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXFANATICSWINNER",
+  "title": "Fanatics winner type"
+}

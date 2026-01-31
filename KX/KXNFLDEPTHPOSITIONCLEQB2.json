@@ -1,0 +1,32 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NFLDEPTHPOSITION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NFLDEPTHPOSITION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the Governing League",
+      "url": "https://www.nfl.com/"
+    }
+  ],
+  "tags": [
+    "Football"
+  ],
+  "ticker": "KXNFLDEPTHPOSITIONCLEQB2",
+  "title": "QB2 CLE"
+}

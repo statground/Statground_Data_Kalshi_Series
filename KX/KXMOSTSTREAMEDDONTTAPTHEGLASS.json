@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MOSTSTREAMED.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MOSTSTREAMED.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Spotify",
+      "url": "https://open.spotify.com/"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "KXMOSTSTREAMEDDONTTAPTHEGLASS",
+  "title": "What will be the most streamed song on DON\"T TAP THE GLASS "
+}

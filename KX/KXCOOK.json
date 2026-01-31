@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/COOK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/COOK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Library of Congress",
+      "url": "https://www.congress.gov/nomination/117th-congress/1679?q=%7B%22search%22%3A%5B%22lisa+cook%22%2C%22lisa%22%2C%22cook%22%5D%7D&s=1&r=1"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCOOK",
+  "title": "Lisa Cook confirmed as Fed member"
+}

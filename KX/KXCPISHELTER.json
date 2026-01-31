@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CPISHELTER.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CPISHELTER.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+    }
+  ],
+  "tags": [
+    "Housing",
+    "Inflation"
+  ],
+  "ticker": "KXCPISHELTER",
+  "title": "CPI on shelter"
+}

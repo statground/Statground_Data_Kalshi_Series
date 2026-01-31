@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MORTGAGEDEF.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MORTGAGEDEF.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/releases/chargeoff/delallsa.htm"
+    }
+  ],
+  "tags": [
+    "Defaults",
+    "Housing",
+    "Mortgages"
+  ],
+  "ticker": "KXMORTGAGEDEF",
+  "title": "Mortgage defaults"
+}
