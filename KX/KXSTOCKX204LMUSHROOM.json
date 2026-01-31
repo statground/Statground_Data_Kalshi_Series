@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ITEMPRICES.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ITEMPRICES.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "StockX",
+      "url": "https://stockx.com/"
+    }
+  ],
+  "tags": [
+    "StockX"
+  ],
+  "ticker": "KXSTOCKX204LMUSHROOM",
+  "title": "New Balance 204L \"Mushroom Arid Stone\""
+}

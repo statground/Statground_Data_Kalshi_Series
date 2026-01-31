@@ -1,0 +1,126 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/REPLACEDEVENT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/REPLACEDEVENT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "ABC News Australia",
+      "url": "http://www.abc.net.au/news/"
+    },
+    {
+      "name": "Al Jazeera English",
+      "url": "https://www.aljazeera.com"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "or broadcaster of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "or ’s authorized representatives",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "organizer",
+      "url": "https://organizer.co"
+    },
+    {
+      "name": "or press releases of the governing body",
+      "url": "https://www.cftc.gov"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": " San Francisco Unified School District",
+      "url": "https://www.sfusd.edu/"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://semafor.com"
+    },
+    {
+      "name": "social media",
+      "url": "https://socialmedia.org"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "the official website",
+      "url": "https://theofficialwebsite.com"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXY",
+  "title": "x"
+}

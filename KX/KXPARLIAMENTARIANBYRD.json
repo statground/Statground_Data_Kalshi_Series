@@ -1,0 +1,114 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PARLIAMENTARIANBYRD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PARLIAMENTARIANBYRD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "C-SPAN",
+      "url": "https://www.c-span.org/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbc.com/"
+    },
+    {
+      "name": "official Senate committee websites",
+      "url": "https://www.senate.gov/committees/committee_websites.htm"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Punchbowl News",
+      "url": "https://www.punchbowl.news"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Roll Call",
+      "url": "https://www.rollcall.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "the Congressional Record",
+      "url": "https://www.congress.gov/congressional-record"
+    },
+    {
+      "name": "The Hill",
+      "url": "https://thehill.com"
+    },
+    {
+      "name": "the House Budget Committee",
+      "url": "https://budget.house.gov"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "the Senate Budget Committee",
+      "url": "https://www.budget.senate.gov/"
+    },
+    {
+      "name": "the Senate Parliamentarian",
+      "url": "https://www.senate.gov/legislative/parliamentarian.htm"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com"
+    },
+    {
+      "name": "the White House",
+      "url": "https://www.whitehouse.gov/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXPARLIAMENTARIANBYRD",
+  "title": "Byrd bath"
+}

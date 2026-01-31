@@ -1,0 +1,114 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/COMPANYBOARD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/COMPANYBOARD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbs.com"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "company",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "company's official press releases",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "company's official website investor relations section",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "MarketWatch",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbc.com"
+    },
+    {
+      "name": "person",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "proxy statements filed with the SEC",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "the U.S. Securities and Exchange Commission via EDGAR database",
+      "url": "http://www.sec.gov/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com"
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCOMPANYBOARDOPENDOOR",
+  "title": "Will Keith Rabois Join the Board of OpenDoor?"
+}

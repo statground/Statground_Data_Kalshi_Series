@@ -1,0 +1,62 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GAMEDAY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GAMEDAY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Bleacher Report",
+      "url": "https://www.bleacherreport.com/"
+    },
+    {
+      "name": "CBS Sports",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "NBC Sports",
+      "url": "https://www.google.com/search?q=NBC+Sports"
+    },
+    {
+      "name": "official league website",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Sports Illustrated",
+      "url": "https://www.si.com"
+    },
+    {
+      "name": "The Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The Athletic",
+      "url": "https://theathletic.com"
+    },
+    {
+      "name": "USA Today Sports",
+      "url": "https://www.usatoday.com/sports/"
+    },
+    {
+      "name": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCHRISTMASHORNETS",
+  "title": "Christmas Hornets"
+}

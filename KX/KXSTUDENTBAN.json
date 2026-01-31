@@ -1,0 +1,126 @@
+{
+  "additional_prohibitions": null,
+  "category": "Education",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/STUDENTBAN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/STUDENTBAN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Energy Information Administration",
+      "url": "https://www.eia.gov/totalenergy/data/monthly/index.php"
+    },
+    {
+      "name": "Exchange Visitor Program",
+      "url": "https://j1visa.state.gov/"
+    },
+    {
+      "name": "Federal Register",
+      "url": "https://www.federalregister.gov/agencies"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "Immigration Services",
+      "url": "https://www.uscis.gov"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "Studentaid.gov",
+      "url": "https://studentaid.gov/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the United States Congress",
+      "url": "https://www.congress.gov/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "the White House",
+      "url": "https://www.whitehouse.gov/"
+    },
+    {
+      "name": "United States Citizenship",
+      "url": "https://www.uscis.gov"
+    },
+    {
+      "name": "United States Courts of Appeals",
+      "url": "https://www.uscourts.gov/courts/court-of-appeals"
+    },
+    {
+      "name": "United States Department of Education",
+      "url": "https://www.ed.gov"
+    },
+    {
+      "name": "United States Department of Homeland Security",
+      "url": "https://www.dhs.gov"
+    },
+    {
+      "name": "United States Department of State",
+      "url": "https://www.state.gov"
+    },
+    {
+      "name": "United States District Courts",
+      "url": "https://www.uscourts.gov/courts/district-courts"
+    },
+    {
+      "name": "United States Supreme Court",
+      "url": "https://www.supremecourt.gov"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSTUDENTBAN",
+  "title": "Students banned"
+}

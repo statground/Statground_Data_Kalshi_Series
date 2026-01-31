@@ -1,0 +1,80 @@
+{
+  "additional_prohibitions": null,
+  "category": "Health",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/POLIO.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/POLIO.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "url": "https://covid.cdc.gov/covid-data-tracker/#trends_dailycases"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "the National Institutes of Health",
+      "url": "https://www.nih.gov/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": [
+    "Diseases"
+  ],
+  "ticker": "KXPOLIO",
+  "title": "Polio cases USA"
+}

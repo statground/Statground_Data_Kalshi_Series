@@ -1,0 +1,25 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/HURNO.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/HURNO.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "National Weather Service",
+      "url": "https://www.weather.gov/wrh/climate?wfo=lix"
+    },
+    {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/product_sites.php?site=NWS&product=PSH"
+    }
+  ],
+  "tags": [
+    "Hurricanes",
+    "Natural disasters"
+  ],
+  "ticker": "HURNO",
+  "title": "Hurricane hits New Orleans"
+}

@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TRANSCARE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TRANSCARE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "White House",
+      "url": "https://whitehouse.gov/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTRANSCARE",
+  "title": "Transgender gender-affirming care"
+}

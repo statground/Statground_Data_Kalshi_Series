@@ -1,0 +1,108 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/COUNTRYACTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/COUNTRYACTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC News",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/us"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "France 24 English",
+      "url": "https://www.france24.com/en/"
+    },
+    {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "NHK World-Japan",
+      "url": "https://www3.nhk.or.jp/nhkworld/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The South China Morning Post",
+      "url": "https://www.scmp.com/"
+    },
+    {
+      "name": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": [
+    "International"
+  ],
+  "ticker": "KXSPAINBULLFIGHTING",
+  "title": "Spain bans bullfighting"
+}

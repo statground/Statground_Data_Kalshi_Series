@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DISCEOCHANGE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DISCEOCHANGE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/"
+    },
+    {
+      "name": "Disney",
+      "url": "https://www.disney.com/"
+    }
+  ],
+  "tags": [
+    "CEOs"
+  ],
+  "ticker": "KXDISCEOCHANGE",
+  "title": "Bob Iger leaves Disney"
+}

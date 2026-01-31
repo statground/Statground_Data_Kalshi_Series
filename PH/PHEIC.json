@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Health",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PHEIC.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PHEIC.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "WHO",
+      "url": "https://www.who.int/emergencies/situations"
+    }
+  ],
+  "tags": [
+    "Covid",
+    "Disease spread",
+    "Other diseases"
+  ],
+  "ticker": "PHEIC",
+  "title": "New public health emergency"
+}

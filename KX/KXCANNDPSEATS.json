@@ -1,0 +1,32 @@
+{
+  "additional_prohibitions": [
+    "Holders of federal and provincial public office, including Members of Parliament, Senators of the Canadian Senate, Members of provincial or territorial legislatures (such as Members of Provincial Parliament), and elected officials of municipal governments, such as mayors and city councilors.",
+    "Paid campaign staffers on federal or provincial campaigns.",
+    "Anyone working in a vote-tallying capacity, or who has the potential ability to observe official vote counts before they are public.",
+    "Third-party vendors and contractors (and employees thereof) of parliamentary campaigns.",
+    "Paid employees of Canadian political parties, including but not limited to the Conservative Party, the Liberal Party, the New Democratic Party, the Bloc Québécois, the Green Party, and the People’s Party",
+    "Paid employees of major polling organizations. This prohibition does not apply to all employees of an organization that contains a polling division (e.g. the prohibition does not apply to all employees of Quinnipiac University despite the presence of Quinnipiac University’s polling division). The Exchange shall determine which polling organizations constitute “major” and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "Employees of major Canadian media organizations (including, but not necessarily exclusive to, CBC News, CTV News, Global News, The Globe and Mail, National Post, and Toronto Star). The Exchange shall determine which media organizations constitute “major” and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "All staff of the Canadian Parliament and its members.",
+    "All staff of the Prime Minister’s Office and Privy Council Office.",
+    "All staff of senior government officials’ offices, such as the Deputy Prime Minister, Minister of Finance, and other cabinet ministers.",
+    "All staff of the Supreme Court of Canada and its Justices."
+  ],
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CANADASEATS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CANADASEATS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "CBC",
+      "url": "https://www.cbc.ca/"
+    }
+  ],
+  "tags": [
+    "Foreign Elections"
+  ],
+  "ticker": "KXCANNDPSEATS",
+  "title": "NDP seats in Canada"
+}

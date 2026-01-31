@@ -1,0 +1,35 @@
+{
+  "additional_prohibitions": [
+    "Holders of federal and statewide public office.",
+    "Paid campaign staffers on Senate campaigns.",
+    "Anyone working in a vote-tallying capacity, or who has the potential ability to observe official vote counts before they are public.",
+    "Third-party vendors and contractors (and employees thereof) of Senatorial campaigns.",
+    "Paid employees of Democratic and Republican Party organizations, such as the Democratic Congressional Campaign Committee or the Republican National Committee.",
+    "Paid employees of Political Action Committees (PACs) and “Super PACs” (independent expenditure only political committees).",
+    "Paid employees of major polling organizations. ",
+    "Employees of Decision Desks at major media organizations.",
+    "Any foreign national. This is defined as an individual who is: (1) not a citizen of the United States and (2) not lawfully admitted for permanent residence (as defined in 8 U.S.C. § 1101(a)(20)); or a foreign principal, as defined in 22 U.S.C. § 611(b). Section 611(b) defines a foreign principal to include a foreign government or political party; or a partnership, association, corporation, organization, or other combination of persons organized under the laws of a foreign country or whose principal place of business is in a foreign country.",
+    "All staff of the U.S. House of Representatives and its members.",
+    "All staff of the U.S. Senate and its members.",
+    "All staff of the Office of the President of the United States.",
+    "All staff of the Office of the Vice President of the United States.",
+    "All staff of the U.S. Supreme Court and its Justices."
+  ],
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SENATEPARTY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SENATEPARTY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "United States Congress",
+      "url": "https://www.congress.gov/"
+    }
+  ],
+  "tags": [
+    "US Elections"
+  ],
+  "ticker": "SENATENC",
+  "title": "North Carolina Senate race"
+}

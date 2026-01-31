@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Social",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FOLLOWERCOUNT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FOLLOWERCOUNT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": ": platform",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Social Blade",
+      "url": "https://socialblade.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXFOLLOWERCOUNTWHTIKTOK",
+  "title": "WH TikTok followers"
+}

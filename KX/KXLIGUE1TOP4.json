@@ -1,0 +1,32 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SOCCERTOPX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SOCCERTOPX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "CBS Sports",
+      "url": "https://www.cbssports.com"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com"
+    },
+    {
+      "name": "Sky Sports",
+      "url": "https://www.skysports.com"
+    }
+  ],
+  "tags": [
+    "Soccer"
+  ],
+  "ticker": "KXLIGUE1TOP4",
+  "title": "Ligue 1 Top 4 Finishers"
+}

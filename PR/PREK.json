@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PREK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PREK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Library of Congress",
+      "url": "https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%7D"
+    }
+  ],
+  "tags": [
+    "Bills"
+  ],
+  "ticker": "PREK",
+  "title": "Universal Pre-K becomes law"
+}

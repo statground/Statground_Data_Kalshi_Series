@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SFDINE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SFDINE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Government of the City and County of San Francisco",
+      "url": "https://sf.gov/operate-your-business-during-coronavirus-pandemic"
+    },
+    {
+      "name": "Office of the Mayor of the City and County of San Francisco",
+      "url": "https://sfmayor.org/news"
+    }
+  ],
+  "tags": null,
+  "ticker": "INDOORSF",
+  "title": "SF indoor dining"
+}

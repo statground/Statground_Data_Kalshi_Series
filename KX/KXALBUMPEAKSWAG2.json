@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SONGPEAK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SONGPEAK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "KXALBUMPEAKSWAG2",
+  "title": "Will Swag 2 by Justin Bieber reach #1"
+}

@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PMLA.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PMLA.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "South Coast Air Quality Management Department",
+      "url": "https://xappp.aqmd.gov/aqdetail/AirQuality/YesterdayData"
+    }
+  ],
+  "tags": null,
+  "ticker": "PMLA",
+  "title": "LA pollution"
+}

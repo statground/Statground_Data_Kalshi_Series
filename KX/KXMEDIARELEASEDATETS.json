@@ -1,0 +1,126 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MEDIARELEASEDATE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MEDIARELEASEDATE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Deadline",
+      "url": "https://deadline.com"
+    },
+    {
+      "name": "Entertainment Weekly",
+      "url": "https://ew.com"
+    },
+    {
+      "name": "film studios responsible for the production of media",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "IMDb",
+      "url": "https://www.imdb.com"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/tudum/top10"
+    },
+    {
+      "name": "official website or verified social media account of the media distributor in geography",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://www.spotify.com"
+    },
+    {
+      "name": "streaming platform for media in geography",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMEDIARELEASEDATETS",
+  "title": "WHEN WILL TAYLOR SWIFT RELEASE AN ALBUM"
+}

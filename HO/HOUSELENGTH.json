@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/HOUSELENGTH.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/HOUSELENGTH.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "FRED",
+      "url": "https://fred.stlouisfed.org/series/MEDDAYONMARUS"
+    }
+  ],
+  "tags": [
+    "Housing"
+  ],
+  "ticker": "HOUSELENGTH",
+  "title": "US house average sale length"
+}

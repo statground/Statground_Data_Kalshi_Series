@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/1SONG.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/1SONG.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/charts/hot-100/"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "KX1SONGJUSTINBIEBER",
+  "title": "Will Justin Bieber have a #1 hit this year?"
+}

@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/COLLEGEFUNDPULL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/COLLEGEFUNDPULL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Attorney General of the United States",
+      "url": "https://www.justice.gov/ag"
+    },
+    {
+      "name": "the White House",
+      "url": "https://www.whitehouse.gov/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCALCOLLEGEFUNDPULL",
+  "title": "California colleges funding pull"
+}

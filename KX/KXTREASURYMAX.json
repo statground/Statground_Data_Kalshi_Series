@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TREASURYMINMAX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TREASURYMINMAX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Department of the Treasury",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2022"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTREASURYMAX",
+  "title": "Treasury max value"
+}

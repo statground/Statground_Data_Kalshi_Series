@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EMERGENCYSTL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EMERGENCYSTL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "National Weather Service (St. Louis, MO)",
+      "url": "https://forecast.weather.gov/product.php?site=LSX&product=CLI&issuedby=STL"
+    }
+  ],
+  "tags": [
+    "Hurricanes"
+  ],
+  "ticker": "EMERGENCYSTL",
+  "title": "Natural disaster hits St. Louis"
+}

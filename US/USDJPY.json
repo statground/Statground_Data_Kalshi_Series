@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/USDJPY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/USDJPY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "ICE ",
+      "url": "https://www.tradingview.com/symbols/USDJPY/?exchange=FX_IDC"
+    }
+  ],
+  "tags": [
+    "USD/JPY"
+  ],
+  "ticker": "USDJPY",
+  "title": "USD/JPY daily range"
+}

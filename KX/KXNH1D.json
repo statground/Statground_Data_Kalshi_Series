@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/HOUSEPARTYNOM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/HOUSEPARTYNOM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Democratic Party",
+      "url": "https://democrats.org/"
+    },
+    {
+      "name": "Republican Party",
+      "url": "https://gop.com/"
+    }
+  ],
+  "tags": [
+    "Primaries"
+  ],
+  "ticker": "KXNH1D",
+  "title": "New Hampshire 1 Democratic primary"
+}

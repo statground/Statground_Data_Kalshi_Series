@@ -1,0 +1,174 @@
+{
+  "additional_prohibitions": null,
+  "category": "Social",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/HAPPENFIRST.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/HAPPENFIRST.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNET",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Engadget",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Entertainment Weekly",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "GameSpot",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "IGN",
+      "url": "https://www.ign.com"
+    },
+    {
+      "name": "Kotaku",
+      "url": "https://kotaku.com"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Rolling Stone",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Science",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://semafor.com"
+    },
+    {
+      "name": "Sky News",
+      "url": "https://news.sky.com/"
+    },
+    {
+      "name": "Sports Illustrated",
+      "url": "https://www.si.com"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Athletic",
+      "url": "https://theathletic.com"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "The White House",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "TMZ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "VentureBeat",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Wired",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXFIRSTDEMDECLARE",
+  "title": "first democrat to run for presidency"
+}

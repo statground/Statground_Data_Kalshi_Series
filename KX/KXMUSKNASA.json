@@ -1,0 +1,68 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MUSKNASA.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MUSKNASA.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "Federal Register",
+      "url": "https://www.federalregister.gov/agencies"
+    },
+    {
+      "name": "Government Accountability Office",
+      "url": "https://www.google.com/search?q=Government+Accountability+Office"
+    },
+    {
+      "name": "NASA",
+      "url": "https://exoplanets.nasa.gov/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "official White House press pool reports",
+      "url": "https://www.google.com/search?q=official+White+House+press+pool+reports"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "SpaceNews",
+      "url": "https://www.google.com/search?q=SpaceNews"
+    },
+    {
+      "name": "SpaceX",
+      "url": "https://www.spacex.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Source Agencies are the United States Department of Defense",
+      "url": "https://www.defense.gov/"
+    },
+    {
+      "name": "the United States Congress",
+      "url": "https://www.congress.gov/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": [
+    "Trump"
+  ],
+  "ticker": "KXMUSKNASA",
+  "title": "Musk NASA contracts"
+}

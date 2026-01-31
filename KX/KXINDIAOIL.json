@@ -1,0 +1,70 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/INDIAOIL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/INDIAOIL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "The Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The Hindu",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "the Prime Minister's Office of India",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Times of India",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com"
+    },
+    {
+      "name": "the White House",
+      "url": "https://www.whitehouse.gov"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXINDIAOIL",
+  "title": "India Russian oil"
+}

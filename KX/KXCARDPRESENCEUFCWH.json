@@ -1,0 +1,70 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CARDPRESENCEUFC.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CARDPRESENCEUFC.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com"
+    },
+    {
+      "name": "Bloody Elbow",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "CBS Sports MMA",
+      "url": "https://bellator.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    },
+    {
+      "name": "ESPN MMA",
+      "url": "http://www.mmajunkie.com/"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com"
+    },
+    {
+      "name": "MMA Fighting",
+      "url": "https://www.mmafighting.com/"
+    },
+    {
+      "name": "MMA Junkie",
+      "url": "http://www.mmajunkie.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Sherdog",
+      "url": "https://www.sherdog.com/"
+    },
+    {
+      "name": "Sports Illustrated MMA",
+      "url": "https://bellator.com/"
+    },
+    {
+      "name": "The Athletic MMA coverage",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Ultimate Fighting Championship official website",
+      "url": "http://www.ufc.com/rankings"
+    },
+    {
+      "name": "Yahoo Sports MMA",
+      "url": "http://www.mmajunkie.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCARDPRESENCEUFCWH",
+  "title": "UFC White House event"
+}

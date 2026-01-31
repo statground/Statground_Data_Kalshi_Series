@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MOSTWINS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MOSTWINS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "the New York Times",
+      "url": "https://www.nytimes.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMOSTWINSEMMYS",
+  "title": "Who will win the most awards at the emmys"
+}

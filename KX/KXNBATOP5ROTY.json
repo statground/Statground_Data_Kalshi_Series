@@ -1,0 +1,58 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NBADRAFTROTY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NBADRAFTROTY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Basketball Reference",
+      "url": "https://www.basketball-reference.com/"
+    },
+    {
+      "name": "CBS Sports",
+      "url": "https://www.cbssports.com"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The Athletic",
+      "url": "https://theathletic.com"
+    },
+    {
+      "name": "the National Basketball Association",
+      "url": "https://www.nba.com"
+    },
+    {
+      "name": "the National Basketball Writers Association",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "Turner Sports",
+      "url": "https://www.turnersports.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNBATOP5ROTY",
+  "title": "Top 5 NBA draft ROTY"
+}

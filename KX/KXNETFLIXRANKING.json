@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NETFLIXRANKING.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NETFLIXRANKING.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "FlixPatrol",
+      "url": "https://flixpatrol.com/top10/netflix/united-states"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://about.netflix.com/en"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNETFLIXRANKING",
+  "title": "Netflix ranking"
+}

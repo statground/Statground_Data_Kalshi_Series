@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Mentions",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EARNINGSMENTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EARNINGSMENTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXEARNINGSMENTIONDIS",
+  "title": "disney earnings m"
+}

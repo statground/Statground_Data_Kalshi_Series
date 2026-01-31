@@ -1,0 +1,58 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/AINEURALESE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/AINEURALESE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com"
+    },
+    {
+      "name": "arXiv preprints with functioning code repositories",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "GitHub repositories with model implementations",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Hugging Face model cards",
+      "url": "https://huggingface.co/models"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com"
+    },
+    {
+      "name": "official AI company blogs",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official announcements from AI research organizations and companies",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "peer-reviewed publications in recognized AI conferences and journals",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com"
+    },
+    {
+      "name": "VentureBeat",
+      "url": "https://venturebeat.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXAINEURALESE",
+  "title": "AI neuralese recurrence"
+}

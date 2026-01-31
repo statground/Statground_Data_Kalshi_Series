@@ -1,0 +1,110 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GENRELEASE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GENRELEASE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Amazon Prime",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Apple App Store and Google Play Store",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://disneyplus.com/"
+    },
+    {
+      "name": "entity",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "entity's official social media accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "entity's official website",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "HBO Max",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://www.hulu.com/"
+    },
+    {
+      "name": "IGN",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "major news outlets including The New York Times",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com/tudum/top10/united-states/tv"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://www.polygon.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "SEC filings",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Steam",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the Federal Register",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCOACHELLARELEASE",
+  "title": "Coachella lineup release"
+}

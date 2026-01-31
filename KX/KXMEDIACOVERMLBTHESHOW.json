@@ -1,0 +1,160 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MEDIACOVER.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MEDIACOVER.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC News",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Entertainment Weekly",
+      "url": "https://ew.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "Game Informer",
+      "url": "https://www.gameinformer.com"
+    },
+    {
+      "name": "GameSpot",
+      "url": "https://www.gamespot.com"
+    },
+    {
+      "name": "IGN",
+      "url": "https://www.ign.com"
+    },
+    {
+      "name": "Kotaku",
+      "url": "https://kotaku.com"
+    },
+    {
+      "name": "media and its parent company or publisher",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Media Week",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "NME",
+      "url": "https://www.nme.com"
+    },
+    {
+      "name": "official social media accounts of media",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official website of media",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Pitchfork",
+      "url": "https://pitchfork.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://polygon.com"
+    },
+    {
+      "name": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Rolling Stone",
+      "url": "https://www.rollingstone.com"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "Spin",
+      "url": "https://www.spin.com"
+    },
+    {
+      "name": "Stereogum",
+      "url": "https://www.stereogum.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "the New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com/"
+    },
+    {
+      "name": "verified social media accounts of the cover subject(s) or creator(s)",
+      "url": "https://www.kalshi.com/"
+    }
+  ],
+  "tags": [
+    "Video games"
+  ],
+  "ticker": "KXMEDIACOVERMLBTHESHOW",
+  "title": "WHO WILL BE ON THE COVER OF MLB THE SHOW"
+}

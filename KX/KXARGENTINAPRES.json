@@ -1,0 +1,29 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ELECTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ELECTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "constitutional court",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "in hierarchical order: Primary Sources: the official electoral commission",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "or equivalent electoral authority of the relevant jurisdiction; the formal proclamation by the head of state or government when constitutionally required; for religious elections",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "Foreign Elections",
+    "International elections"
+  ],
+  "ticker": "KXARGENTINAPRES",
+  "title": "Argentina presidential election"
+}

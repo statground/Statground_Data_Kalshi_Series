@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NEWPRODUCTRELEASE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NEWPRODUCTRELEASE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "authorized retailers and distributors of company",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "company",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "Product launches"
+  ],
+  "ticker": "KXKPOPDH2",
+  "title": "Will KPop Demon Hunters 2 be released before September 2026?"
+}

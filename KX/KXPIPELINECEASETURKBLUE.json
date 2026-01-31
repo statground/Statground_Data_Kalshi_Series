@@ -1,0 +1,38 @@
+{
+  "additional_prohibitions": null,
+  "category": "Transportation",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PIPELINECEASE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PIPELINECEASE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "European Network of Transmission System Operators for Gas",
+      "url": "https://www.entsog.eu/"
+    },
+    {
+      "name": "Gazprom",
+      "url": "https://www.gazprom.com"
+    },
+    {
+      "name": "relevant pipeline operator",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Turkish Energy Market Regulatory Authority",
+      "url": "https://www.epdk.gov.tr"
+    },
+    {
+      "name": "the U",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Turkish Petroleum Pipeline Corporation",
+      "url": "http://www.xn--bota-85a.gov.tr/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXPIPELINECEASETURKBLUE",
+  "title": "Pipeline cease"
+}

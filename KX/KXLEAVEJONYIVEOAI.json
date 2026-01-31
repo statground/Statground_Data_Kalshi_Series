@@ -1,0 +1,30 @@
+{
+  "additional_prohibitions": [
+    "Any representatives of company"
+  ],
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/LEAVECOMPANY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/LEAVECOMPANY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "company's official social media accounts (e",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "company's official website",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "person",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "AI Transfers"
+  ],
+  "ticker": "KXLEAVEJONYIVEOAI",
+  "title": "Jony Ive OpenAI"
+}

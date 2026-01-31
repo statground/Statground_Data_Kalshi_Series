@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MLBOAK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MLBOAK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Major League Baseball",
+      "url": "https://www.mlb.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMLBOAK",
+  "title": "Oakland Athletics relocate"
+}

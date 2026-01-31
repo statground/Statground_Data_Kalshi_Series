@@ -1,0 +1,70 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GLASTONMYSTERY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GLASTONMYSTERY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Emily Eavis",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Glastonbury Festival",
+      "url": "https://www.glastonburyfestivals.co.uk/"
+    },
+    {
+      "name": "Glastonbury Free Press",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "live broadcast footage from BBC",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Michael Eavis",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "NME",
+      "url": "https://www.nme.com"
+    },
+    {
+      "name": "official artist confirmations on their verified social media accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official festival photography",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official Glastonbury Festival press releases",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Pitchfork",
+      "url": "https://pitchfork.com"
+    },
+    {
+      "name": "Rolling Stone UK",
+      "url": "https://www.rollingstone.com/uk/"
+    },
+    {
+      "name": "Sky News",
+      "url": "https://news.sky.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    },
+    {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXGLASTONMYSTERY",
+  "title": "Glastonbury mystery guests"
+}

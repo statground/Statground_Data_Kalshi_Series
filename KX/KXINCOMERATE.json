@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/INCOMERATE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/INCOMERATE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "United States Congress",
+      "url": "https://www.congress.gov/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXINCOMERATE",
+  "title": "Income tax rate"
+}

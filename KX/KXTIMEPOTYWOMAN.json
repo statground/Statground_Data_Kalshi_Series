@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/KXTIMEPOTYWOMAN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/KXTIMEPOTYWOMAN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "TIME",
+      "url": "https://time.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTIMEPOTYWOMAN",
+  "title": "Will the times person of the year be a woman?"
+}

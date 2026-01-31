@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/APPROVE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/APPROVE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "weekly",
+  "settlement_sources": [
+    {
+      "name": "RealClearPolitics",
+      "url": "https://www.realclearpolitics.com/epolls/other/president-biden-job-approval-7320.html#polls"
+    }
+  ],
+  "tags": [
+    "Approval ratings",
+    "Biden"
+  ],
+  "ticker": "APRPOTUS",
+  "title": "President RCP approval rating this week"
+}

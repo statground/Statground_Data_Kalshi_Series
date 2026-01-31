@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CONLEADER.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CONLEADER.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.com/news"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCONLEADER24",
+  "title": "Conservative Leader 2024"
+}

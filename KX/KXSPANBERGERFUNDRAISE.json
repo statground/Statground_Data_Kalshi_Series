@@ -1,0 +1,26 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FUNDRAISINGNUMBERS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FUNDRAISINGNUMBERS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Federal Election Commission (e",
+      "url": "https://www.fec.gov/"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSPANBERGERFUNDRAISE",
+  "title": "Abigail Spanberger fundraising numbers"
+}

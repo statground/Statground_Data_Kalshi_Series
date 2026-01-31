@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NEXTCOMPANY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NEXTCOMPANY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "S&P Global",
+      "url": "https://www.spglobal.com/en"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNEXTCOMPANYSP500",
+  "title": "Next company in S&P 500"
+}

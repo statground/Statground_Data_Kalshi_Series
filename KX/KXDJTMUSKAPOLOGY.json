@@ -1,0 +1,94 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DJTMUSKAPOLOGY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DJTMUSKAPOLOGY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Donald Trump",
+      "url": "https://www.donaldjtrump.com"
+    },
+    {
+      "name": "Elon Musk",
+      "url": "https://x.com/elonmusk"
+    },
+    {
+      "name": "Energy Information Administration",
+      "url": "https://www.eia.gov/dnav/pet/PET_PRI_SPT_S1_D.htm"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "official White House press pool reports",
+      "url": "https://www.google.com/search?q=official+White+House+press+pool+reports"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "SpaceX",
+      "url": "https://www.spacex.com/"
+    },
+    {
+      "name": "Tesla",
+      "url": "https://www.tesla.com/blog"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://abc.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXDJTMUSKAPOLOGY",
+  "title": "DJT Musk Apology"
+}

@@ -1,0 +1,37 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MULTIELECTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MULTIELECTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the official election authority conducting election",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the United Nations Electoral Assistance Division",
+      "url": "https://dppa.un.org/en/electoral-assistance-division"
+    }
+  ],
+  "tags": [
+    "Foreign Elections",
+    "International"
+  ],
+  "ticker": "KXOCTSWEEP",
+  "title": "october right sweep"
+}

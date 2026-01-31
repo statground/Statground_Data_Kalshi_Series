@@ -1,0 +1,62 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BROADWAY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BROADWAY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Broadway World",
+      "url": "https://www.broadwayworld.com/"
+    },
+    {
+      "name": "Deadline",
+      "url": "https://deadline.com"
+    },
+    {
+      "name": "Entertainment Weekly",
+      "url": "https://ew.com"
+    },
+    {
+      "name": "official announcements from producers or theaters presenting play",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Playbill",
+      "url": "https://www.playbill.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "The Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The Broadway League",
+      "url": "https://www.broadwayleague.com"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "Time Out New York",
+      "url": "https://www.timeout.com/newyork"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXBROADWAYEVITA",
+  "title": "Evita"
+}

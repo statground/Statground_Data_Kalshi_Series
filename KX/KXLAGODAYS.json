@@ -1,0 +1,33 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/LAGODAYS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/LAGODAYS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "White House",
+      "url": "https://whitehouse.gov/"
+    }
+  ],
+  "tags": [
+    "Recurring",
+    "Trump"
+  ],
+  "ticker": "KXLAGODAYS",
+  "title": "Mar-a-Lago trips"
+}

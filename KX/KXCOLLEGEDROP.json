@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Education",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/COLLEGEDROP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/COLLEGEDROP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "U.S. News and World Report",
+      "url": "https://www.usnews.com/best-colleges/rankings/national-universities?_sort=rank&_sortDirection=asc"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCOLLEGEDROP",
+  "title": "College rankings drop"
+}

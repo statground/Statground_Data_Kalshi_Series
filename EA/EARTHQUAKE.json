@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/USGS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/USGS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/map/?extent=11.43696,-144.22852&extent=58.07788,-45.79102"
+    }
+  ],
+  "tags": [
+    "Natural disasters"
+  ],
+  "ticker": "EARTHQUAKE",
+  "title": "earthquake"
+}

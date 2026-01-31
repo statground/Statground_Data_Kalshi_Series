@@ -1,0 +1,134 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/WINR1.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/WINR1.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Die Zeit",
+      "url": "https://www.zeit.de/index"
+    },
+    {
+      "name": "El País",
+      "url": "https://elpais.com"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "La Repubblica",
+      "url": "https://www.repubblica.it/"
+    },
+    {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "official electoral authority conducting election",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official government website of the jurisdiction holding election",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "O Globo",
+      "url": "https://oglobo.globo.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://semafor.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Sydney Morning Herald",
+      "url": "https://www.smh.com.au/"
+    },
+    {
+      "name": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXGASEN1R",
+  "title": "Will a candidate win outright in the Georgia Senate election?"
+}

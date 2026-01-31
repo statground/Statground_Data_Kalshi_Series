@@ -1,0 +1,30 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FIGHTROUNDCOUNT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FIGHTROUNDCOUNT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "CBS Sports",
+      "url": "https://www.cbssports.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com"
+    },
+    {
+      "name": "Paramount+",
+      "url": "https://www.paramountplus.com/home/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXUFCROUNDS",
+  "title": "UFC Total Rounds"
+}

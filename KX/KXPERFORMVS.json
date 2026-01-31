@@ -1,0 +1,85 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PERFORM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PERFORM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/charts/billboard-global-200/"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Deadline",
+      "url": "https://deadline.com"
+    },
+    {
+      "name": "Entertainment Weekly",
+      "url": "https://www.google.com/search?q=Entertainment+Weekly"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "MTV",
+      "url": "https://www.google.com/search?q=MTV"
+    },
+    {
+      "name": "official broadcaster of ",
+      "url": "https://www.google.com/search?q=official+broadcaster+of+<event>"
+    },
+    {
+      "name": "official  website",
+      "url": "https://www.google.com/search?q=official+<event>+website"
+    },
+    {
+      "name": "official social media accounts of confirmed performers",
+      "url": "https://www.google.com/search?q=official+social+media+accounts+of+confirmed+performers"
+    },
+    {
+      "url": "https://www.google.com/search?q=<performer>"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Rolling Stone",
+      "url": "https://www.google.com/search?q=Rolling+Stone"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXPERFORMVS",
+  "title": "Who will perform the victoria secret fashion show "
+}

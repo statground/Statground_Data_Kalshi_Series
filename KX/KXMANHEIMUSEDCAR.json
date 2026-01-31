@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MANHEIM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MANHEIM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Manheim",
+      "url": "https://site.manheim.com/en/services/consulting/used-vehicle-value-index.html"
+    }
+  ],
+  "tags": [
+    "Inflation"
+  ],
+  "ticker": "KXMANHEIMUSEDCAR",
+  "title": "Manheim Used Vehicle Value Index"
+}

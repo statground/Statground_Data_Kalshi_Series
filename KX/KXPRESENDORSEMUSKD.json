@@ -1,0 +1,108 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PRESENDORSE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PRESENDORSE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "C-SPAN",
+      "url": "https://www.c-span.org/"
+    },
+    {
+      "name": "Energy Information Administration",
+      "url": "https://www.eia.gov/dnav/pet/PET_PRI_SPT_S1_D.htm"
+    },
+    {
+      "name": "Federal Election Commission",
+      "url": "https://www.fec.gov"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "Hill",
+      "url": "https://thehill.com"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "National Journal",
+      "url": "https://www.nationaljournal.com"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "official campaign websites",
+      "url": "https://www.fec.gov/official-campaign-websites/"
+    },
+    {
+      "name": "official political party websites",
+      "url": "https://www.usa.gov/political-parties"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Roll Call",
+      "url": "https://www.rollcall.com"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "USA Today",
+      "url": "https://www.usatoday.com/"
+    }
+  ],
+  "tags": [
+    "US Elections"
+  ],
+  "ticker": "KXPRESENDORSEMUSKD",
+  "title": "Musk endorses Democrat for President"
+}

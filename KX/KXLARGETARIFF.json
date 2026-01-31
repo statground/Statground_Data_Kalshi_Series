@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/LARGETARIFF.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/LARGETARIFF.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "FRED",
+      "url": "https://fred.stlouisfed.org/graph/?g=1wn5e"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXLARGETARIFF",
+  "title": "Trump tariffs"
+}

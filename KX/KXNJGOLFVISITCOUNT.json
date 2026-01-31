@@ -1,0 +1,126 @@
+{
+  "additional_prohibitions": null,
+  "category": "Transportation",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/VISITCOUNT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/VISITCOUNT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbs.com"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "official government sources of place",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official representatives or offices of person",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official schedules of the President",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official social media accounts of person or their official representatives",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "other political staff",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "person",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Presidential",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "releases and public statements of White House",
+      "url": "https://www.whitehouse.gov/briefing-room/statements-releases/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "the White House",
+      "url": "https://www.whitehouse.gov"
+    },
+    {
+      "name": "White House pool reports",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNJGOLFVISITCOUNT",
+  "title": "NJ golf visits"
+}

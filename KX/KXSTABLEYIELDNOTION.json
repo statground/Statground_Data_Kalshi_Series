@@ -1,0 +1,50 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/STABLEYIELDNOTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/STABLEYIELDNOTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "CoinGecko",
+      "url": "https://coingecko.com"
+    },
+    {
+      "name": "DeFiLlama",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Dune Analytics",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Stablewatch",
+      "url": "https://stablewatch.co"
+    },
+    {
+      "name": "The Block",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSTABLEYIELDNOTION",
+  "title": "Stablecoin notional yield"
+}

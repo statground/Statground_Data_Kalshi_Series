@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NYSECIRCUIT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NYSECIRCUIT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "NYSE",
+      "url": "https://www.nyse.com/index"
+    },
+    {
+      "name": "Office of the Mayor of the City and County of San Francisco",
+      "url": "https://sfmayor.org/news"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNYSECIRCUIT",
+  "title": "NYSE circuit breaker day"
+}

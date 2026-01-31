@@ -1,0 +1,62 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PRICEINCREASE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PRICEINCREASE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/"
+    },
+    {
+      "name": "official announcements through verified company social media accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official press releases from the company",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official website of the manufacturer or service provider of product",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXPRICEINCREASESPOTIFY",
+  "title": "PRICE INCREASE SPOTIFY"
+}

@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ALBUMTRACKS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ALBUMTRACKS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Spotify",
+      "url": "https://www.spotify.com"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "KXALBUMTRACKSHARRY",
+  "title": "HOW MANY TRACKS WILL HARRY STYLES HAVE"
+}

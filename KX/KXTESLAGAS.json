@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TESLAGAS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TESLAGAS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Elon Musk",
+      "url": "https://x.com/elonmusk"
+    },
+    {
+      "name": "Tesla",
+      "url": "https://www.tesla.com/blog"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTESLAGAS",
+  "title": "Tesla gas car"
+}

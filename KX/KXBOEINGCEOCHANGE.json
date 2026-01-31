@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Transportation",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BOEINGCEOCHANGE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BOEINGCEOCHANGE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Boeing",
+      "url": "https://www.boeing.com/"
+    }
+  ],
+  "tags": [
+    "Airlines & aviation",
+    "CEOs"
+  ],
+  "ticker": "KXBOEINGCEOCHANGE",
+  "title": "New Boeing CEO"
+}

@@ -1,0 +1,42 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CLAIM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CLAIM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC News",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": [
+    "Congress",
+    "Music",
+    "Trump"
+  ],
+  "ticker": "KXESDEEKID",
+  "title": "Timothée Chalamet is secretly the English rapper EsDeeKid"
+}

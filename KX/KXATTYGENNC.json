@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ATTYGEN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ATTYGEN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "the relevant electoral authority governing ",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "US Elections"
+  ],
+  "ticker": "KXATTYGENNC",
+  "title": "AG race NC"
+}

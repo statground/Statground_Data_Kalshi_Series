@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RAINNY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RAINNY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "U.S. Geological Survey",
+      "url": "https://waterdata.usgs.gov/monitoring-location/01376520/#parameterCode=00045&period=P7D"
+    }
+  ],
+  "tags": null,
+  "ticker": "RAINNY",
+  "title": "NYC rain"
+}

@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NYCDN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NYCDN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "New York City Mayor’s Office",
+      "url": "https://www1.nyc.gov/office-of-the-mayor/news.page"
+    },
+    {
+      "name": "Office of the Mayor of New York City",
+      "url": "https://www1.nyc.gov/office-of-the-mayor/news.page"
+    }
+  ],
+  "tags": [
+    "Covid"
+  ],
+  "ticker": "DINENYCS",
+  "title": "NYC indoor dining ban"
+}

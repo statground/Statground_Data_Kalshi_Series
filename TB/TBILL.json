@@ -1,0 +1,13 @@
+{
+  "additional_prohibitions": null,
+  "category": "",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/.pdf",
+  "contract_url": "",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "weekly",
+  "settlement_sources": null,
+  "tags": null,
+  "ticker": "TBILL",
+  "title": "Treasury bill rate"
+}

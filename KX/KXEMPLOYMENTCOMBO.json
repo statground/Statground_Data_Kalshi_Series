@@ -1,0 +1,26 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/POLITICALECONOMICEVENTS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/POLITICALECONOMICEVENTS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/cpi/"
+    },
+    {
+      "name": "Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+    },
+    {
+      "name": "Federal Reserve Board of Governors",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXEMPLOYMENTCOMBO",
+  "title": "Employment Combo"
+}

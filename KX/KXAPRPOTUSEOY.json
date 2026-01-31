@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/APPROVE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/APPROVE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "RealClearPolitics",
+      "url": "https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating"
+    }
+  ],
+  "tags": [
+    "Recurring",
+    "Trump"
+  ],
+  "ticker": "KXAPRPOTUSEOY",
+  "title": "President RCP approval rating at end of year"
+}

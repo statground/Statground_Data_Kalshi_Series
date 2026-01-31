@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ACMA.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ACMA.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Academy of Country Music",
+      "url": "https://www.acmcountry.com/"
+    }
+  ],
+  "tags": [
+    "Awards"
+  ],
+  "ticker": "KXACMAASWOTY",
+  "title": "ACMA Artist Songwriter of the Year"
+}

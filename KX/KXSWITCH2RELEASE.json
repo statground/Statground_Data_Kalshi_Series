@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SWITCH2RELEASE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SWITCH2RELEASE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Nintendo",
+      "url": "https://www.nintendo.com/us/"
+    }
+  ],
+  "tags": [
+    "Video games"
+  ],
+  "ticker": "KXSWITCH2RELEASE",
+  "title": "Switch 2 release date"
+}

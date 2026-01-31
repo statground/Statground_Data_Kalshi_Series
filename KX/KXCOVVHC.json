@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Health",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/VOHC.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/VOHC.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-info.html#Consequence"
+    }
+  ],
+  "tags": [
+    "Diseases"
+  ],
+  "ticker": "KXCOVVHC",
+  "title": "COVID high consequence variant reported"
+}

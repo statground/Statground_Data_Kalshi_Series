@@ -1,0 +1,114 @@
+{
+  "additional_prohibitions": null,
+  "category": "Social",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GOLIVE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GOLIVE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC News",
+      "url": "https://abcnews.go.com"
+    },
+    {
+      "name": "Access Hollywood",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Deadline Hollywood",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "E! News",
+      "url": "https://www.eonline.com/"
+    },
+    {
+      "name": "Entertainment Tonight",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Extra TV",
+      "url": "http://www.bbc.co.uk/comedy/extras"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "People Magazine",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "person",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "person's verified social media accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "social media platform",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "TMZ",
+      "url": "https://www.tmz.com/"
+    },
+    {
+      "name": "Us Weekly",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXGOLIVEKAICENAT",
+  "title": "WILL KAI CENAT GO LIVE TODAY"
+}

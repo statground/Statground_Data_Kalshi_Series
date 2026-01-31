@@ -1,0 +1,92 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/AIRDROP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/AIRDROP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Arbiscan",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "Base Explorer",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/"
+    },
+    {
+      "name": "CoinTelegraph",
+      "url": "https://bitchat.free/"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "DeFi Llama",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Etherscan",
+      "url": "https://counterparty.io/"
+    },
+    {
+      "name": "official blockchain explorers for the relevant network",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Polygonscan",
+      "url": "https://polygon.technology/"
+    },
+    {
+      "name": "project",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Solscan",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Block",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": [
+    "Pre-Market"
+  ],
+  "ticker": "KXAIRDROPQ",
+  "title": "Airdrops Q3"
+}

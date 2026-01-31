@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GLOBALTEMPERATURE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GLOBALTEMPERATURE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "National Weather Service",
+      "url": "https://www.weather.gov"
+    },
+    {
+      "name": "the national weather service for area (e.g. Australian Bureau of Meteorology, the Met Office, etc.)",
+      "url": "https://kalshi.com"
+    }
+  ],
+  "tags": [
+    "Daily temperature"
+  ],
+  "ticker": "KXLOWTMIA",
+  "title": "Lowest temperature in Miami"
+}

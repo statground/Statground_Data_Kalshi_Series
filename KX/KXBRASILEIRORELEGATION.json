@@ -1,0 +1,40 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RELEGATION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RELEGATION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "CBS Sports",
+      "url": "https://www.cbssports.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com"
+    },
+    {
+      "name": "NBC Sports",
+      "url": "https://www.nbcsports.com"
+    },
+    {
+      "name": "Sky Sports",
+      "url": "https://www.skysports.com"
+    },
+    {
+      "name": "The Athletic",
+      "url": "https://theathletic.com"
+    }
+  ],
+  "tags": [
+    "Soccer"
+  ],
+  "ticker": "KXBRASILEIRORELEGATION",
+  "title": "Brasileiro Relegation"
+}

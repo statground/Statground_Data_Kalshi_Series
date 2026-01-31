@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FLIGHTJFK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FLIGHTJFK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "FlightAware",
+      "url": "https://flightaware.com/live/cancelled/yesterday/JFK"
+    }
+  ],
+  "tags": [
+    "Flights"
+  ],
+  "ticker": "KXFLIGHTJFK",
+  "title": "JFK International Airport total flight delays and cancellations"
+}

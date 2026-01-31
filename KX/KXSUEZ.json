@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SUEZ.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SUEZ.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/"
+    },
+    {
+      "name": "Suez Canal Authority",
+      "url": "https://www.suezcanal.gov.eg/English/Pages/default.aspx"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSUEZ",
+  "title": "Suez canal closes"
+}

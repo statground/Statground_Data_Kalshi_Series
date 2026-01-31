@@ -1,0 +1,42 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MAG7BTC.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MAG7BTC.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Alphabet",
+      "url": "https://abc.xyz/"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://www.amazon.com/"
+    },
+    {
+      "name": "Apple",
+      "url": "https://www.apple.com"
+    },
+    {
+      "name": "Meta",
+      "url": "https://investor.fb.com/home/default.aspx"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://www.microsoft.com/en-us/"
+    },
+    {
+      "name": "Nvidia",
+      "url": "https://nvidianews.nvidia.com/"
+    },
+    {
+      "name": "Tesla",
+      "url": "https://www.tesla.com/blog"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMAG7BTC",
+  "title": "Mag 7 BTC"
+}

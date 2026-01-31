@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/VISIONPRO.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/VISIONPRO.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Apple",
+      "url": "https://www.apple.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXVISIONPRO",
+  "title": "Apple Vision Pro release date"
+}

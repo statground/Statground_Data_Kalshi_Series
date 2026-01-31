@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GRAMMY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GRAMMY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Recording Academy",
+      "url": "https://www.grammy.com/"
+    }
+  ],
+  "tags": [
+    "Awards"
+  ],
+  "ticker": "KXGRAMBAN",
+  "title": "Best Album Notes"
+}

@@ -1,0 +1,100 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MUSKCHALLENGERS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MUSKCHALLENGERS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Ballotpedia",
+      "url": "https://ballotpedia.org"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Elon Musk’s X account",
+      "url": "https://twitter.com/elonmusk"
+    },
+    {
+      "name": "Energy Information Administration",
+      "url": "https://www.eia.gov/dnav/ng/NG_PRI_FUT_S1_D.htm"
+    },
+    {
+      "name": "Federal Election Commission",
+      "url": "https://www.fec.gov"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "official campaign websites of candidates",
+      "url": "https://www.nass.org/can-I-vote"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "United States House of Representatives",
+      "url": "https://www.house.gov"
+    },
+    {
+      "name": "United States Senate",
+      "url": "https://www.senate.gov"
+    }
+  ],
+  "tags": [
+    "US Elections"
+  ],
+  "ticker": "KXMUSKCHALLENGERS",
+  "title": "Musk challengers"
+}

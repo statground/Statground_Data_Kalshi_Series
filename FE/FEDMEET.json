@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FEDMEET.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FEDMEET.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Federal Reserve",
+      "url": "https://www.federalreserve.gov"
+    }
+  ],
+  "tags": [
+    "Interest rates",
+    "Retail/consumer spending"
+  ],
+  "ticker": "FEDMEET",
+  "title": "Fed emergency meeting"
+}

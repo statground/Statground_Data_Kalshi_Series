@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SPORTAWARD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SPORTAWARD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    }
+  ],
+  "tags": [
+    "CFB",
+    "Football"
+  ],
+  "ticker": "KXCFBDOBRIEN",
+  "title": "Davey O'Brien Award"
+}

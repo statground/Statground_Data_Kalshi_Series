@@ -1,0 +1,62 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PARTYCONTEST.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PARTYCONTEST.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Al Jazeera",
+      "url": "https://aljazeera.com"
+    },
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.com/"
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "official statements from ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the government of the jurisdiction holding ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "the official election commission or electoral authority governing ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXAMERICAPARTY2028",
+  "title": "America party 2028"
+}

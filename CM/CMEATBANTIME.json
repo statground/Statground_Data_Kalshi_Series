@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CMEATBANTIME.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CMEATBANTIME.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "State governments",
+      "url": "https://www.myfloridahouse.gov/Sections/Bills/billsdetail.aspx?BillId=79719"
+    }
+  ],
+  "tags": [
+    "Bills",
+    "Culture war"
+  ],
+  "ticker": "CMEATBANTIME",
+  "title": "State bans cultivated meat"
+}

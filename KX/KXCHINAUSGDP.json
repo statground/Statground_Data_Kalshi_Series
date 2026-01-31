@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CHINAUSGDP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CHINAUSGDP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "IMF",
+      "url": "https://www.imf.org/en/Publications/WEO"
+    }
+  ],
+  "tags": [
+    "Growth"
+  ],
+  "ticker": "KXCHINAUSGDP",
+  "title": "China overtakes US GDP"
+}

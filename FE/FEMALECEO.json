@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FEMALECEO.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FEMALECEO.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Fortune",
+      "url": "https://fortune.com/ranking/fortune500/"
+    }
+  ],
+  "tags": [
+    "CEOs"
+  ],
+  "ticker": "FEMALECEO",
+  "title": "female ceo"
+}

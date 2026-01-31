@@ -1,0 +1,58 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MEDIAGUEST.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MEDIAGUEST.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Apple Podcasts",
+      "url": "https://www.apple.com"
+    },
+    {
+      "name": "etc",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "HBO Max",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "media",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "media's official social media accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official website or platform of media",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official website or platform where media is distributed (Netflix",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "production company's official channels",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMEDIAGUESTERICADAMS",
+  "title": "WILL ERIC ADAMS BE ON DANCING WITH THE STARS"
+}

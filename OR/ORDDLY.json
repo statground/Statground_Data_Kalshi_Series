@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Transportation",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ORDDLY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ORDDLY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "Federal Aviation Administration (FAA)",
+      "url": "https://www.fly.faa.gov/flyfaa/flyfaaindex.jsp?ARPT=ORD"
+    }
+  ],
+  "tags": null,
+  "ticker": "ORDDLY",
+  "title": "O'Hare delays"
+}

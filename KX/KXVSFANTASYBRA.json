@@ -1,0 +1,126 @@
+{
+  "additional_prohibitions": null,
+  "category": "Social",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CLOTHES.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CLOTHES.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC News",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Agence France-Presse",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS News",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "E! News",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Entertainment Tonight",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "Getty Images",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Harper's Bazaar",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "People Magazine",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "person",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "POLITICO",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "the White House",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "TMZ",
+      "url": "https://www.tmz.com"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com"
+    },
+    {
+      "name": "Vogue",
+      "url": "https://www.vogue.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXVSFANTASYBRA",
+  "title": "Who will wear The Victoria's Secret 'Fantasy Bra'"
+}

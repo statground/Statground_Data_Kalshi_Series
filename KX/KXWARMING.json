@@ -1,0 +1,32 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/WARMING.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/WARMING.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Berkeley Earth",
+      "url": "https://berkeleyearth.org/data/"
+    },
+    {
+      "name": "NASA Goddard\nInstitute for Space Studies",
+      "url": "https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt"
+    },
+    {
+      "name": "NCEI",
+      "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series"
+    },
+    {
+      "name": "UK Met Office Hadley Centre (HadCRUT)",
+      "url": "https://crudata.uea.ac.uk/cru/data/temperature/"
+    }
+  ],
+  "tags": [
+    "Climate change"
+  ],
+  "ticker": "KXWARMING",
+  "title": "Global warming"
+}

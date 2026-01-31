@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BOE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BOE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Bank of England",
+      "url": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXBOE",
+  "title": "Bank of England bank rate"
+}

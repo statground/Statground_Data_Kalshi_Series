@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EURO.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EURO.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "weekly",
+  "settlement_sources": [
+    {
+      "name": "Federal Reserve System",
+      "url": "https://www.federalreserve.gov/releases/h10/current/default.htm"
+    }
+  ],
+  "tags": [
+    "EUR/USD"
+  ],
+  "ticker": "EURO",
+  "title": "EURO/USD exchange rate"
+}

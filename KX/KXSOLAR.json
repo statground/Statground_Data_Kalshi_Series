@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SOLAR.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SOLAR.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Solar Energy Industries Association",
+      "url": "https://seia.org/research-resources/solar-market-insight-report-2023-year-review/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSOLAR",
+  "title": "Solar capcity installation"
+}

@@ -1,0 +1,46 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EUROVISIONPARTICIPANTS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EUROVISIONPARTICIPANTS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "member states of the European Broadcasting Union",
+      "url": "https://ebu.ch"
+    },
+    {
+      "name": "Special Broadcasting Service",
+      "url": "https://www.sbs.com.au/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the European Broadcasting Union",
+      "url": "https://ebu.ch"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXEUROVISIONPARTICIPANTS",
+  "title": "Eurovision participants"
+}

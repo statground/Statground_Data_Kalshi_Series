@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FDAAPPROVAL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FDAAPPROVAL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "FDA",
+      "url": "https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2024"
+    },
+    {
+      "name": "U.S. Food and Drug Administration.",
+      "url": "https://www.fda.gov/news-events/fda-newsroom/press-announcements"
+    }
+  ],
+  "tags": [
+    "Trump"
+  ],
+  "ticker": "KXFDAAPPROVALPSYCHEDELIC",
+  "title": "FDA APPROVAL PSYCHEDELIC"
+}

@@ -1,0 +1,34 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/POLLOUTPERFORMANCE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/POLLOUTPERFORMANCE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "constitutional court",
+      "url": "https://constitutionalcourt.com"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "or equivalent electoral authority of the relevant ; the formal proclamation by the head of state or government when constitutionally required; for religious elections",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the official religious authority (e",
+      "url": "http://leader.ir"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCAPROP50OUTPERFORMVOTEHUB",
+  "title": "Yes on CA prop 50 outperform VoteHub margin in 2025 "
+}

@@ -1,0 +1,32 @@
+{
+  "additional_prohibitions": [
+    "Holders of federal and state public office, including Members of the Bundestag (Federal Parliament), Members of the Bundesrat (Federal Council), Members of state parliaments (Landtage), and elected officials of municipal governments, such as mayors and city councilors.",
+    "Paid campaign staffers on federal or state election campaigns.",
+    "Anyone working in a vote-tallying capacity, or who has the potential ability to observe official vote counts before they are public.",
+    "Third-party vendors and contractors (and employees thereof) of parliamentary campaigns.",
+    "Paid employees of German political parties, including but not limited to the Christian Democratic Union (CDU), the Christian Social Union (CSU), the Social Democratic Party (SPD), the Free Democratic Party (FDP), Alliance 90/The Greens (Bündnis 90/Die Grünen), The Left (Die Linke), and Alternative for Germany (AfD).",
+    "Paid employees of major polling organizations. This prohibition does not apply to all employees of an organization that contains a polling division (e.g. the prohibition does not apply to all employees of Quinnipiac University despite the presence of Quinnipiac University’s polling division). The Exchange shall determine which polling organizations constitute “major” and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "Employees of major German media organizations (including, but not necessarily exclusive to, ARD, ZDF, Der Spiegel, Die Zeit, Frankfurter Allgemeine Zeitung, Süddeutsche Zeitung, and Bild). The Exchange shall determine which media organizations constitute \"major\" and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "All staff of the German Bundestag and its members.",
+    "All staff of the Federal Chancellery (Bundeskanzleramt) and the Office of the Federal President (Bundespräsidialamt).",
+    "All staff of senior government officials’ offices, such as the Vice Chancellor, Federal Minister of Finance, and other federal ministers.",
+    "All staff of the Federal Constitutional Court (Bundesverfassungsgericht) and its Justices"
+  ],
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CHANCELLOR.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CHANCELLOR.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    }
+  ],
+  "tags": [
+    "Foreign Elections"
+  ],
+  "ticker": "KXCHANCELLOR",
+  "title": "German Chancellorship"
+}

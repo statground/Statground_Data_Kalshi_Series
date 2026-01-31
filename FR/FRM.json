@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FRM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FRM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "weekly",
+  "settlement_sources": [
+    {
+      "name": "Freddie Mac",
+      "url": "http://www.freddiemac.com/pmms/"
+    }
+  ],
+  "tags": [
+    "Housing"
+  ],
+  "ticker": "FRM",
+  "title": "Mortgage 30-yr rate this week"
+}

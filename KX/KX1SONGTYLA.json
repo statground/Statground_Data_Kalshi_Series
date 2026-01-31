@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/1SONG.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/1SONG.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/charts/hot-100/"
+    }
+  ],
+  "tags": [
+    "Music",
+    "Music charts"
+  ],
+  "ticker": "KX1SONGTYLA",
+  "title": "Tyla top song"
+}

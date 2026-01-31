@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/INX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/INX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "For example, Google Finance",
+      "url": "https://www.google.com/finance/quote/.INX:INDEXSP?hl=en"
+    }
+  ],
+  "tags": [
+    "S&P"
+  ],
+  "ticker": "INXZ",
+  "title": "S&P 500 up"
+}

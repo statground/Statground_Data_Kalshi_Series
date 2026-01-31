@@ -1,0 +1,30 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CONGESTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CONGESTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "City of New York",
+      "url": "https://www.nyc.gov/"
+    },
+    {
+      "name": "City of New York",
+      "url": "https://www.nyc.gov/office-of-the-mayor/news.page"
+    },
+    {
+      "name": "Governor of New York",
+      "url": "https://www.governor.ny.gov/"
+    },
+    {
+      "name": "State of New York",
+      "url": "https://www.ny.gov/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCONGESTION",
+  "title": "Congestion tax NYC"
+}

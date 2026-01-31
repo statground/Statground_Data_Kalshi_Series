@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Health",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/VOC.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/VOC.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-classifications.html"
+    }
+  ],
+  "tags": [
+    "Diseases"
+  ],
+  "ticker": "KXCOVVC",
+  "title": "COVID new variant of concern reported"
+}

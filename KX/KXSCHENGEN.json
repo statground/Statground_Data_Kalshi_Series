@@ -1,0 +1,126 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/AGREEMENTW.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com"
+    },
+    {
+      "name": "any official depositary designated for the relevant international agreement",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.com/news"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbs.com"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbc.com"
+    },
+    {
+      "name": "NHK World",
+      "url": "https://www3.nhk.or.jp/nhkworld/"
+    },
+    {
+      "name": "official government websites or ministries of the relevant countries",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "secretariat or official body of the relevant ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "TASS",
+      "url": "https://tass.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "the United Nations",
+      "url": "https://www.un.org"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com"
+    },
+    {
+      "name": "Xinhua",
+      "url": "http://www.xinhuanet.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSCHENGEN",
+  "title": "Any country withdrawing from the Schengen Agreement"
+}

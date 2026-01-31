@@ -1,0 +1,25 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TOPMONTHLY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TOPMONTHLY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "Kworb",
+      "url": "https://kworb.net/"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://open.spotify.com/"
+    }
+  ],
+  "tags": [
+    "Music",
+    "Music charts"
+  ],
+  "ticker": "KXTOPMONTHLY",
+  "title": "Top Monthly listeners"
+}

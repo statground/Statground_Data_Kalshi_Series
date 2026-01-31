@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/U3.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/U3.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic_with_maker_fees",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/empsit.toc.htm"
+    }
+  ],
+  "tags": [
+    "Employment"
+  ],
+  "ticker": "KXU3",
+  "title": "Unemployment"
+}

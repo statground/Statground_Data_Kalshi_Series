@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PARDON.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PARDON.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "White House",
+      "url": "https://whitehouse.gov/"
+    }
+  ],
+  "tags": [
+    "Trump"
+  ],
+  "ticker": "KXPARDONANYONE",
+  "title": "Pardon this month"
+}

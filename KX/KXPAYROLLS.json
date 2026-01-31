@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PAYROLLS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PAYROLLS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic_with_maker_fees",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "BLS",
+      "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+    }
+  ],
+  "tags": [
+    "Employment"
+  ],
+  "ticker": "KXPAYROLLS",
+  "title": "Jobs numbers"
+}

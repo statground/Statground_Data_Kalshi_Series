@@ -1,0 +1,29 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/UNIPRESIDENT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/UNIPRESIDENT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Harvard",
+      "url": "https://www.harvard.edu/"
+    },
+    {
+      "name": "MIT",
+      "url": "https://www.mit.edu/"
+    },
+    {
+      "name": "Penn",
+      "url": "https://www.upenn.edu/"
+    }
+  ],
+  "tags": [
+    "Culture war",
+    "Education"
+  ],
+  "ticker": "UNIPRESIDENT",
+  "title": "University Presidents ousted"
+}

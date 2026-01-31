@@ -1,0 +1,25 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BILLSCOUNT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BILLSCOUNT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "weekly",
+  "settlement_sources": [
+    {
+      "name": "Library of Congress",
+      "url": "https://congress.gov"
+    },
+    {
+      "name": "White House",
+      "url": "https://whitehouse.gov/"
+    }
+  ],
+  "tags": [
+    "Recurring",
+    "Trump"
+  ],
+  "ticker": "KXBILLSCOUNTWEEKLY",
+  "title": "Will Trump a bill this week?"
+}

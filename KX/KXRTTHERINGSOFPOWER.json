@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RTTV.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RTTV.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/"
+    }
+  ],
+  "tags": [
+    "Rotten Tomatoes",
+    "Television"
+  ],
+  "ticker": "KXRTTHERINGSOFPOWER",
+  "title": "The Rings of Power RT"
+}

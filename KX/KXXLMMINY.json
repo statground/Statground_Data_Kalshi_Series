@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/XLMMINMAX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/XLMMINMAX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "CF Benchmarks",
+      "url": "https://www.cfbenchmarks.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXXLMMINY",
+  "title": "XLM min"
+}

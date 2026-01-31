@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DEBATEHAPPEN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DEBATEHAPPEN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    }
+  ],
+  "tags": [
+    "Biden",
+    "Culture war"
+  ],
+  "ticker": "DEBATEHAPPEN",
+  "title": "Debate between Biden/Trump"
+}

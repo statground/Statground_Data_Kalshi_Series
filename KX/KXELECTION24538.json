@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ELECTION24538.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ELECTION24538.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/polls/president-primary-r/2024/national/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXELECTION24538",
+  "title": "Election 24 538"
+}

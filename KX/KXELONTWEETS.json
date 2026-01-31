@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TWEETS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TWEETS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "weekly",
+  "settlement_sources": [
+    {
+      "name": "X",
+      "url": "https://twitter.com/home"
+    }
+  ],
+  "tags": [
+    "Culture war"
+  ],
+  "ticker": "KXELONTWEETS",
+  "title": "Elon Musk tweets"
+}

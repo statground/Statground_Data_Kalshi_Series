@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TSAW.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TSAW.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "weekly",
+  "settlement_sources": [
+    {
+      "name": "Transportation Security Administration",
+      "url": "https://www.tsa.gov/travel/passenger-volumes"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTSAW",
+  "title": "TSA check-ins this week"
+}

@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/USTESTS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/USTESTS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Nation's Report Card",
+      "url": "https://nces.ed.gov/nationsreportcard/"
+    }
+  ],
+  "tags": [
+    "Culture war",
+    "Education"
+  ],
+  "ticker": "USTESTSREADING",
+  "title": "US Test scores in Reading"
+}

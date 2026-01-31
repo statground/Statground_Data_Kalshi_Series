@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MAERSK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MAERSK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Maersk",
+      "url": "https://www.maersk.com/"
+    }
+  ],
+  "tags": [
+    "Foreign economies",
+    "Supply chain"
+  ],
+  "ticker": "MAERSK",
+  "title": "Maersk resumes shipping in the Red Sea"
+}

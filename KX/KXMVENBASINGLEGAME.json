@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FOOTBALLSTATS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FOOTBALLSTATS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "the league governing the game",
+      "url": "https://www.nfl.com/"
+    },
+    {
+      "name": "the league governing the game",
+      "url": "https://www.ncaa.com/sports/football/fbs"
+    }
+  ],
+  "tags": [
+    "Basketball"
+  ],
+  "ticker": "KXMVENBASINGLEGAME",
+  "title": "MVE NBA Single Game"
+}

@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DONDA2.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DONDA2.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "MRC Data",
+      "url": "https://login.mrc-data.com/"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "DONDA2",
+  "title": "Donda 2 release"
+}

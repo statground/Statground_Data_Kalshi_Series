@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BOOKAWARDS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BOOKAWARDS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "National Book Awards",
+      "url": "https://www.nationalbook.org/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXBOOKAWARDSNONF",
+  "title": "BOOK AWARD FOR NONFICTION"
+}

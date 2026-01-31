@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FOLLOWERCOUNTSPEED.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FOLLOWERCOUNTSPEED.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": ": platform",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Social Blade",
+      "url": "https://socialblade.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXFOLLOWERCOUNTISHOWSPEED",
+  "title": "SPEEF FOLLOWER COUNT"
+}

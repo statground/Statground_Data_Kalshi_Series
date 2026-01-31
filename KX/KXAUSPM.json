@@ -1,0 +1,32 @@
+{
+  "additional_prohibitions": [
+    "Holders of national and regional public office, including Members of Parliament in the Australian House of Representatives, Senators in the Australian Senate, members of state and territory parliaments (including state legislators) and elected officials of local governments such as mayors and councilors.",
+    "Paid campaign staffers on federal election campaigns.",
+    "Anyone working in a vote-tallying capacity, or who has the potential ability to observe official vote counts before they are public.",
+    "Third-party vendors and contractors (and employees thereof) of parliamentary campaigns.",
+    "Paid employees of Australian political parties, including but not limited to the Liberal Party, the National Party, the Australian Labor Party (ALP), and the Greens.",
+    "Paid employees of major polling organizations. This prohibition does not apply to all employees of an organization that contains a polling division (e.g. the prohibition does not apply to all employees of Quinnipiac University despite the presence of Quinnipiac University’s polling division). The Exchange shall determine which polling organizations constitute “major” and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "Employees of major Australian media organizations (including, but not necessarily exclusive to, ABC News, The Australian, The Sydney Morning Herald, The Age, and Sky News Australia). The Exchange shall determine which media organizations constitute “major” and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "All staff of the Australian Parliament and its members",
+    "All staff of the Prime Minister’s Office and the Department of the Prime Minister and Cabinet.",
+    "All staff of senior government officials’ offices, such as the Deputy Prime Minister, Treasurer, and Minister for Foreign Affairs.",
+    "All staff of the High Court of Australia and its Justices."
+  ],
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/AUSPM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/AUSPM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://www.abc.net.au/"
+    }
+  ],
+  "tags": [
+    "Foreign Elections"
+  ],
+  "ticker": "KXAUSPM",
+  "title": "Australia PM"
+}

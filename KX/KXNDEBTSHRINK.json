@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NDEBTSHRINK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NDEBTSHRINK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "U.S. Department of the Treasury",
+      "url": "https://home.treasury.gov/"
+    }
+  ],
+  "tags": [
+    "Bankruptcy & Defaults",
+    "Defaults"
+  ],
+  "ticker": "KXNDEBTSHRINK",
+  "title": "national debt shrinking"
+}

@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CRED.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CRED.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "Federal Reserve Bank of New York",
+      "url": "https://www.newyorkfed.org/microeconomics/hhdc/background.html"
+    }
+  ],
+  "tags": [
+    "Retail/consumer spending"
+  ],
+  "ticker": "CRED",
+  "title": "Credit card debt"
+}

@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CRYPTOPRICE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CRYPTOPRICE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": ": CF Benchmarks Real-Time Index for the relevant asset",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "CoinMarketCap's USD price CoinGecko's USD price",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXWAL25",
+  "title": "Wal $1 2025"
+}

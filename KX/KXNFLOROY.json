@@ -1,0 +1,30 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ACHIEVEMENTSAWARDS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ACHIEVEMENTSAWARDS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "AP",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNFLOROY",
+  "title": "NFL Offensive Rookie of the Y ear"
+}

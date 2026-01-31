@@ -1,0 +1,64 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SPORTSIGN.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SPORTSIGN.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport"
+    },
+    {
+      "name": "CBS Sports",
+      "url": "https://www.cbssports.com"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "league",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "NBC Sports",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Sky Sports",
+      "url": "https://www.skysports.com"
+    },
+    {
+      "name": "Sportsnet",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "team",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Athletic",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "TSN",
+      "url": "https://www.tsn.ca/"
+    }
+  ],
+  "tags": [
+    "Esports"
+  ],
+  "ticker": "KXSPORTSIGNINSPIRED",
+  "title": "Inspired"
+}

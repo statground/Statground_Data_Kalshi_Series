@@ -1,0 +1,61 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BROADCAST.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BROADCAST.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Broadcasting & Cable",
+      "url": "https://broadcastingcable.com"
+    },
+    {
+      "name": "Deadline",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official social media accounts of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "TV Guide",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "TVNewsCheck",
+      "url": "https://tvnewscheck.com"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXBROADCASTNBCYTTV",
+  "title": "Will NBCUniversal pull any of its shows from YouTube TV before October 15th"
+}

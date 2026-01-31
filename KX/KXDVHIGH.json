@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DVTEMP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DVTEMP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/product.php?site=VEF&product=CLI&issuedby=LAS"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXDVHIGH",
+  "title": "Death Valley temperature"
+}

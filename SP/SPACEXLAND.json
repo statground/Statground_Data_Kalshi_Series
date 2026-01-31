@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SPACEXLAND.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SPACEXLAND.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/"
+    }
+  ],
+  "tags": [
+    "Elon Musk",
+    "Space"
+  ],
+  "ticker": "SPACEXLAND",
+  "title": "Starship lands"
+}

@@ -1,0 +1,94 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/UNITAX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/UNITAX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Energy Information Administration",
+      "url": "https://www.eia.gov/dnav/pet/PET_PRI_SPT_S1_D.htm"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "Harvard UniversityUnited States Tax Court",
+      "url": "https://www.ustaxcourt.gov"
+    },
+    {
+      "name": "Internal Revenue Service",
+      "url": "https://www.irs.gov"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "United States Court of Appeals",
+      "url": "https://www.ca5.uscourts.gov/"
+    },
+    {
+      "name": "United States Department of the Treasury",
+      "url": "https://home.treasury.gov/"
+    },
+    {
+      "name": "United States Supreme Court",
+      "url": "https://www.supremecourt.gov"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXHARVARDTAX",
+  "title": "Harvard tax exemption revoked"
+}

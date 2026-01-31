@@ -1,0 +1,23 @@
+{
+  "additional_prohibitions": [
+    "Rotten Tomatoes"
+  ],
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/"
+    }
+  ],
+  "tags": [
+    "Movies",
+    "Rotten Tomatoes"
+  ],
+  "ticker": "KXRTSINNERS",
+  "title": "Sinners Rotten Tomatoes Score"
+}

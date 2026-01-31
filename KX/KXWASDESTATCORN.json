@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/WASDESTAT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/WASDESTAT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "the World Agricultural Outlook Board",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "U.S. Department of Agriculture Office of the Chief Economist.",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXWASDESTATCORN",
+  "title": "Corn"
+}

@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CNGDP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CNGDP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "National Bureau of Statistics of China",
+      "url": "http://www.stats.gov.cn/english/PressRelease/"
+    }
+  ],
+  "tags": [
+    "Growth",
+    "International"
+  ],
+  "ticker": "CNGDP",
+  "title": "China quarterly GDP change in 2021 Q2"
+}

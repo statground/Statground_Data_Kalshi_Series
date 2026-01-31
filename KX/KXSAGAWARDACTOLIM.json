@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SAGAWARDS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SAGAWARDS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "The Actor Awards",
+      "url": "https://www.actorawards.org/"
+    }
+  ],
+  "tags": [
+    "Awards",
+    "Movies"
+  ],
+  "ticker": "KXSAGAWARDACTOLIM",
+  "title": "Outstanding Performance by a Male Actor in a Television Movie or Limited Series"
+}

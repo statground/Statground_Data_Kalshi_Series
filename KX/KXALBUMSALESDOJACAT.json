@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ALBUMSALES.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ALBUMSALES.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Hits Daily Double",
+      "url": "https://www.hitsdailydouble.com/charts/hits-top-50"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "KXALBUMSALESDOJACAT",
+  "title": "How many album sales will doja cat have "
+}

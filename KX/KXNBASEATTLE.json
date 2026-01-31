@@ -1,0 +1,32 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NBASEATTLE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NBASEATTLE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://www.abc.net.au/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    }
+  ],
+  "tags": [
+    "Basketball"
+  ],
+  "ticker": "KXNBASEATTLE",
+  "title": "Seattle NBA team"
+}

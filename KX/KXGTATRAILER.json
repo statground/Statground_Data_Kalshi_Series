@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GTATRAILER.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GTATRAILER.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Kotaku",
+      "url": "https://kotaku.com"
+    },
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/charts/mostplayed"
+    }
+  ],
+  "tags": [
+    "Video games"
+  ],
+  "ticker": "KXGTATRAILER",
+  "title": "GTA VI trailer"
+}

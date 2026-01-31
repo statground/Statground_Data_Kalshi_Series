@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GOVBALL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GOVBALL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Founders Entertainment, LLC",
+      "url": "https://www.governorsballmusicfestival.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXGOVBALL",
+  "title": "Gov Ball cancellation"
+}

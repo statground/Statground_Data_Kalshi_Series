@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NFLAWARD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NFLAWARD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    },
+    {
+      "name": "the Governing League",
+      "url": "https://www.nfl.com/"
+    }
+  ],
+  "tags": [
+    "Football"
+  ],
+  "ticker": "KXNFLSBMVPDEF",
+  "title": "Defensive Player Championship MVP"
+}

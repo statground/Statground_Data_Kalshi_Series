@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MEAD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MEAD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "U.S. Bureau of Reclamation",
+      "url": "https://www.usbr.gov/lc/region/g4000/hourly/mead-elv.html"
+    }
+  ],
+  "tags": null,
+  "ticker": "MEAD",
+  "title": "Lake Mead water levels"
+}

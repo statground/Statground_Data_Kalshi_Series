@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Health",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CNCOVID.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CNCOVID.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "weekly",
+  "settlement_sources": [
+    {
+      "name": "World Health Organization",
+      "url": "https://covid19.who.int/region/wpro/country/cn"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXCASEWCN",
+  "title": "COVID-19 case average in China"
+}

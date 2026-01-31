@@ -1,0 +1,28 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/STRIKE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/STRIKE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "official statements from  or its parent organization",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official statements from the employer",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the U",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "Local"
+  ],
+  "ticker": "KXAIRCANADASTRIKE",
+  "title": "Air Canada strike"
+}

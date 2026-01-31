@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/OLYMP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/OLYMP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "International Olympic Committee",
+      "url": "https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/medal-standings.htm"
+    }
+  ],
+  "tags": null,
+  "ticker": "OLYMCANCEL",
+  "title": "Summer Olympics 2021 cancellation"
+}

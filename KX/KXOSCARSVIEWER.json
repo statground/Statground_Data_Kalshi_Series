@@ -1,0 +1,32 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/OSCARSVIEWER.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/OSCARSVIEWER.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com/"
+    }
+  ],
+  "tags": [
+    "Awards"
+  ],
+  "ticker": "KXOSCARSVIEWER",
+  "title": "Oscars viewership"
+}

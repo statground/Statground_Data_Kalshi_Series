@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/RECSS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/RECSS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Bureau of Economic Analysis",
+      "url": "https://www.bea.gov/data/gdp/gross-domestic-product"
+    }
+  ],
+  "tags": [
+    "GDP"
+  ],
+  "ticker": "RECSS",
+  "title": "Quarter of negative GDP growth by 2022 Q2"
+}

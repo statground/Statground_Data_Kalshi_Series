@@ -1,0 +1,26 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DISCONTINUE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DISCONTINUE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "company's official social media accounts (e",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "company's official website",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSIG320",
+  "title": "Sig Discontinue"
+}

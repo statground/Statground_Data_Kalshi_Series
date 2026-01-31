@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Health",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/PERTUSSIS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/PERTUSSIS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "CDC",
+      "url": "https://www.cdc.gov/pertussis/php/surveillance/index.html"
+    }
+  ],
+  "tags": [
+    "Diseases"
+  ],
+  "ticker": "KXPERTUSSIS",
+  "title": "Pertussis cases"
+}

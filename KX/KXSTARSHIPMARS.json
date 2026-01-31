@@ -1,0 +1,23 @@
+{
+  "additional_prohibitions": [
+    "SpaceX"
+  ],
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/STARSHIPMARS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/STARSHIPMARS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "SpaceX",
+      "url": "https://www.spacex.com/"
+    }
+  ],
+  "tags": [
+    "Elon Musk",
+    "Space"
+  ],
+  "ticker": "KXSTARSHIPMARS",
+  "title": "Starship launch to Mars"
+}

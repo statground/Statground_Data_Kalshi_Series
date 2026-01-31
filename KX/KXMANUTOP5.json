@@ -1,0 +1,50 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/STANDINGS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/STANDINGS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "CBS Sports",
+      "url": "https://www.cbssports.com"
+    },
+    {
+      "name": "conference",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com"
+    },
+    {
+      "name": "official league",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official league website",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "or division governing league",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The Athletic",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMANUTOP5",
+  "title": "Man United top 5"
+}

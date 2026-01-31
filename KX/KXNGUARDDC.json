@@ -1,0 +1,26 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NGUARDDEPLOY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NGUARDDEPLOY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "AP",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNGUARDDC",
+  "title": "National Guard in DC"
+}

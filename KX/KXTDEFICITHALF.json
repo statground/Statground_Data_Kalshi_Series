@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TDEFICIT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TDEFICIT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "FRED",
+      "url": "https://fred.stlouisfed.org/seriesBeta/BOPGSTB"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTDEFICITHALF",
+  "title": "U.S. BOP"
+}

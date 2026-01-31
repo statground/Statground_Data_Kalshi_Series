@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MAMMAMIA3.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MAMMAMIA3.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Variety",
+      "url": "https://variety.com/"
+    }
+  ],
+  "tags": [
+    "Movies",
+    "Music"
+  ],
+  "ticker": "MAMMAMIA3",
+  "title": "Mamma Mia 3 announcement"
+}

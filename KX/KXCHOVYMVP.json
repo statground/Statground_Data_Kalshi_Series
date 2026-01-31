@@ -1,0 +1,32 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ACHIEVEMENTSAWARDSESPORTS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ACHIEVEMENTSAWARDSESPORTS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "AP",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": [
+    "Esports"
+  ],
+  "ticker": "KXCHOVYMVP",
+  "title": "Will Chovy be the MVP of the Worlds finals"
+}

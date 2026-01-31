@@ -1,0 +1,38 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ARTISTWEEKSNUM1.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ARTISTWEEKSNUM1.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "artist/media",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/"
+    },
+    {
+      "name": "chart",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Rolling Stone",
+      "url": "https://www.google.com/search?q=Rolling+Stone"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://www.spotify.com"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXKPOPDHWEEKSNUM1",
+  "title": "How many weeks will Kpop demon hunters be number 1 "
+}

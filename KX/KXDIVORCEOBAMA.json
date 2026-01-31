@@ -1,0 +1,106 @@
+{
+  "additional_prohibitions": null,
+  "category": "Social",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SEPARATE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SEPARATE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "couple",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "court filing systems in any U.S. state or territory",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Deadline",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Entertainment Weekly",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "People Magazine",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the Australian Broadcasting Corporation",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the BBC",
+      "url": "https://www.bbc.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "their attorneys",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "their official social media accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "their publicists",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXDIVORCEOBAMA",
+  "title": "Obama divorce"
+}

@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ACTORAWARDSNOM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ACTORAWARDSNOM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "The Actor Awards",
+      "url": "https://www.actorawards.org/"
+    }
+  ],
+  "tags": [
+    "Awards"
+  ],
+  "ticker": "KXSAGENSCOM",
+  "title": "Outstanding Performance by an Ensemble in a Comedy Series"
+}

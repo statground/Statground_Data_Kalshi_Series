@@ -1,0 +1,24 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FORTNITEPROAM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FORTNITEPROAM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "FORTNITE COMPETITIVE",
+      "url": "https://www.fortnite.com/competitive/"
+    },
+    {
+      "name": "Fortnitetracker.com",
+      "url": "https://fortnitetracker.com/article/2360/meet-the-duos-at-the-fncs-pro-am-2025"
+    }
+  ],
+  "tags": [
+    "Video games"
+  ],
+  "ticker": "KXFORTNITEPROAM",
+  "title": "Which duo will win the 2025 Fortnite FNCS Pro-Am?"
+}

@@ -1,0 +1,49 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TRANSFERCOUNT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TRANSFERCOUNT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Athletic",
+      "url": "https://www.google.com/search?q=Athletic"
+    },
+    {
+      "name": "BBC Sport",
+      "url": "https://www.google.com/search?q=BBC+Sport"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/"
+    },
+    {
+      "name": "FIFA Transfer Matching System",
+      "url": "https://www.google.com/search?q=FIFA+Transfer+Matching+System"
+    },
+    {
+      "name": "league in which  competes",
+      "url": "https://www.google.com/search?q=league+in+which+<team>+competes"
+    },
+    {
+      "name": "official website of the relevant football association",
+      "url": "https://www.google.com/search?q=official+website+of+the+relevant+football+association"
+    },
+    {
+      "name": "Sky Sports",
+      "url": "https://www.google.com/search?q=Sky+Sports"
+    },
+    {
+      "url": "https://www.google.com/search?q=<team>"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTRANSFERCOUNTRM",
+  "title": "Real Madrid transfer count"
+}

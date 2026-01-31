@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FERTILITYSK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FERTILITYSK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Statistics Korea",
+      "url": "https://kostat.go.kr/anse/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXFERTILITYSK",
+  "title": "Fertility in South Korea"
+}

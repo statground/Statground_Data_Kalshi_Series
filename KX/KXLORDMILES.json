@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Social",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CHALLENGE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CHALLENGE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "College Gameday",
+      "url": "https://x.com/CollegeGameDay/"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXLORDMILES",
+  "title": "Lord Miles"
+}

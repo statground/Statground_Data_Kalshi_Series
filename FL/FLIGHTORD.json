@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Transportation",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FLIGHTORD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FLIGHTORD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "FlightAware",
+      "url": "https://flightaware.com/live/cancelled/yesterday/ORD"
+    }
+  ],
+  "tags": [
+    "Airlines & aviation"
+  ],
+  "ticker": "FLIGHTORD",
+  "title": "O'Hare International Airport total delays and cancellations"
+}

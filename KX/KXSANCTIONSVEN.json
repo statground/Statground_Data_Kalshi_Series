@@ -1,0 +1,134 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SANCTION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SANCTION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "BBC World Service",
+      "url": "http://www.bbcworldservice.com"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "CNN International",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "country's Head of Government Office",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "country's Ministry of Foreign Affairs",
+      "url": "https://www.gov.il/he/departments/ministry_of_foreign_affairs/"
+    },
+    {
+      "name": "country's Official Government Gazette or Federal Register",
+      "url": "https://www.archives.gov/federal-register/"
+    },
+    {
+      "name": "country's Treasury Department",
+      "url": "http://www.treasury.gov/"
+    },
+    {
+      "name": "Defense News",
+      "url": "http://www.defensenews.com/"
+    },
+    {
+      "name": "Foreign Policy Magazine",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "the European Union Official Journal",
+      "url": "https://eur-lex.europa.eu/oj/direct-access.html"
+    },
+    {
+      "name": "The Financial Times",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "the United Nations Security Council",
+      "url": "https://www.un.org/securitycouncil/es"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSANCTIONSVEN",
+  "title": "Sanctions. onVenzuela"
+}

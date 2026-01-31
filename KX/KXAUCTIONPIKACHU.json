@@ -1,0 +1,50 @@
+{
+  "additional_prohibitions": null,
+  "category": "Financials",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/AUCTIONPRICE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/AUCTIONPRICE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Artnet",
+      "url": "https://www.artnet.com/"
+    },
+    {
+      "name": "Artprice",
+      "url": "http://fr.artprice.com"
+    },
+    {
+      "name": "auction",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "auction house's official website and published results",
+      "url": "https://www.sothebys.com/"
+    },
+    {
+      "name": "Christie’s",
+      "url": "https://www.christies.com"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Sotheby’s",
+      "url": "https://www.sothebys.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the New York Times",
+      "url": "https://www.nytimes.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXAUCTIONPIKACHU",
+  "title": "HOW MUCH WIL LOGAN PAULS 1997 Illustrator Pikachu BE "
+}

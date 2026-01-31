@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/HURSAV.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/HURSAV.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "National Weather Service (Savannah)",
+      "url": "https://forecast.weather.gov/product.php?site=CHS&product=CLI&issuedby=SAV"
+    }
+  ],
+  "tags": [
+    "Hurricanes"
+  ],
+  "ticker": "HURSAV",
+  "title": "Hurricane hits Savannah"
+}

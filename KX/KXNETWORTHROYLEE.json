@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NETWORTH.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NETWORTH.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Forbes",
+      "url": "https://www.forbes.com/real-time-billionaires/#45c1a6b23d78"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXNETWORTHROYLEE",
+  "title": "Will Roy Lee become a Billionaire by 2029"
+}

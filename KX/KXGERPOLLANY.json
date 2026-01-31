@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GERPOLLING.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GERPOLLING.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Wahlrecht.de",
+      "url": "https://www.wahlrecht.de/umfragen/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXGERPOLLANY",
+  "title": "Any party but CDU/CSU"
+}

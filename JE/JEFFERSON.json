@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/JEFFERSON.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/JEFFERSON.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Library of Congress",
+      "url": "https://www.congress.gov/nomination/117th-congress/1680?q=%7B%22search%22%3A%5B%22philip+jefferson%22%2C%22philip%22%2C%22jefferson%22%5D%7D&s=4&r=1"
+    }
+  ],
+  "tags": [
+    "Confirmations"
+  ],
+  "ticker": "JEFFERSON",
+  "title": "Philip Jefferson Fed member confirmation"
+}

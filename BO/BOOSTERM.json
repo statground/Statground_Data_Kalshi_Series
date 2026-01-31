@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Health",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BOOSTER.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BOOSTER.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "url": "https://covid.cdc.gov/covid-data-tracker/#vaccinations_vacc-total-admin-rate-total"
+    }
+  ],
+  "tags": [
+    "COVID"
+  ],
+  "ticker": "BOOSTERM",
+  "title": "COVID boosters this month"
+}

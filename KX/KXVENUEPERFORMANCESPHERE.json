@@ -1,0 +1,101 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/VENUEPERFORMANCE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/VENUEPERFORMANCE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com"
+    },
+    {
+      "name": "Billboard",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Deadline",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Entertainment Weekly",
+      "url": "https://www.google.com/search?q=Entertainment+Weekly"
+    },
+    {
+      "name": "Fox",
+      "url": "https://fox.co"
+    },
+    {
+      "name": "in hierarchical order",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "NBC",
+      "url": "https://www.nbcnews.com/"
+    },
+    {
+      "name": "official social media accounts of confirmed performers at  in the same <time> as ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official  website",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Rolling Stone",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "social media accounts",
+      "url": "https://socialmediaaccounts.com"
+    },
+    {
+      "name": "social media accounts of event organizers at ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the official broadcaster of the event at ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the official website",
+      "url": "https://officialwebsite.org"
+    },
+    {
+      "name": "The Source Agencies are",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXVENUEPERFORMANCESPHERE",
+  "title": "WHO WILL PERFORM AT THE SPHERE"
+}

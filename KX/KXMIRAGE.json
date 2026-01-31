@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MIRAGE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MIRAGE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Avant Gardener",
+      "url": "https://www.avant-gardner.com/"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "KXMIRAGE",
+  "title": "Will the Brooklyn Mirage open before"
+}

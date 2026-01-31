@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EMERGENCYLOU.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EMERGENCYLOU.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "National Weather Service (Louisville, KY)",
+      "url": "https://forecast.weather.gov/product.php?site=LMK&product=CLI&issuedby=LOU"
+    }
+  ],
+  "tags": [
+    "Hurricanes"
+  ],
+  "ticker": "EMERGENCYLOU",
+  "title": "Natural disaster hits Louisville"
+}

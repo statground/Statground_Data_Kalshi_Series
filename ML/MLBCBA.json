@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MLBCBA.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MLBCBA.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Major League Baseball",
+      "url": "https://www.mlb.com/"
+    },
+    {
+      "name": "MLB Players Union",
+      "url": "https://www.mlbplayers.com"
+    }
+  ],
+  "tags": null,
+  "ticker": "MLBCBA",
+  "title": "MLB CBA"
+}

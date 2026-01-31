@@ -1,0 +1,125 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SECURITYCLEARANCE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SECURITYCLEARANCE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "Central Intelligence Agency",
+      "url": "https://www.cia.gov"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "congressional committees with oversight authority",
+      "url": "https://www.congress.gov/committees"
+    },
+    {
+      "name": "Defense Counterintelligence",
+      "url": "https://www.dod.gov/policy-initiatives/defense-counterintelligence-and-security-agency"
+    },
+    {
+      "name": "Department of Justice Office of the Pardon Attorney",
+      "url": "https://www.justice.gov/pardon"
+    },
+    {
+      "name": "Energy Information Administration",
+      "url": "https://www.eia.gov/dnav/pet/PET_PRI_SPT_S1_D.htm"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "Office of the Director of National Intelligence",
+      "url": "https://www.dni.gov"
+    },
+    {
+      "name": "official White House press pool reports",
+      "url": "https://www.google.com/search?q=official+White+House+press+pool+reports"
+    },
+    {
+      "url": "https://twitter.com/tylercowen"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "relevant federal courts",
+      "url": "https://www.google.com/search?q=relevant+federal+courts"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Security Agency",
+      "url": "https://www.dhs.gov/security-agency"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Source Agencies are the United States Department of Defense",
+      "url": "https://www.defense.gov/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    },
+    {
+      "name": "United States Department of Homeland Security",
+      "url": "https://www.dhs.gov"
+    },
+    {
+      "name": "U.S. Department of State",
+      "url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/China.html"
+    },
+    {
+      "name": "U.S. Office of Personnel Management",
+      "url": "https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSECURITYCLEARANCEMUSK",
+  "title": "SEcurity clearance elon musk"
+}

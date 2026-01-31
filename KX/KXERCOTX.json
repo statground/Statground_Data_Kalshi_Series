@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ERCOT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ERCOT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "monthly",
+  "settlement_sources": [
+    {
+      "name": "ERCOT",
+      "url": "https://www.ercot.com/files/docs/2021/11/08/IntGenbyFuel2021.xlsx"
+    }
+  ],
+  "tags": [
+    "Climate change"
+  ],
+  "ticker": "KXERCOTX",
+  "title": "Texas share of electricity from renewables"
+}

@@ -1,0 +1,76 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GOVFORM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GOVFORM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.com/news"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "name": "constitutional court or supreme court of  if election disputes are adjudicated",
+      "url": "https://www.venice.coe.int/webforms/documents/?pdf=CDL-JU(2020)004-e"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://ft.com/"
+    },
+    {
+      "name": "head of government of ",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    },
+    {
+      "name": "head of state of ",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "parliament of ",
+      "url": "https://www.google.com/search?q=parliament+of+<country>"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "primary national news outlets of ",
+      "url": "https://www.google.com/search?q=primary+national+news+outlets+of+<country>"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us"
+    }
+  ],
+  "tags": [
+    "International"
+  ],
+  "ticker": "KXGOVFORMPL",
+  "title": "Government formed Poland"
+}

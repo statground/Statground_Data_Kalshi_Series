@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/EMERGENCYSF.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/EMERGENCYSF.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "National Weather Service (San Francisco, CA)",
+      "url": "https://forecast.weather.gov/product.php?site=MTR&product=CLI&issuedby=SFD"
+    }
+  ],
+  "tags": [
+    "Hurricanes"
+  ],
+  "ticker": "EMERGENCYSF",
+  "title": "Natural disaster hits San Francisco"
+}

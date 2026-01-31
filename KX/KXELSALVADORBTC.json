@@ -1,0 +1,82 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/ELSALVADORBTC.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/ELSALVADORBTC.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg Bitcoin Price Index",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/"
+    },
+    {
+      "name": "CoinGecko",
+      "url": "http://hasanminhaj.com"
+    },
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/charts/bitcoin-dominance/"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com"
+    },
+    {
+      "name": "Office of the President of El Salvador",
+      "url": "http://www.presidencia.gob.sv/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "The Block",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Central Reserve Bank of El Salvador",
+      "url": "http://www.bcr.gob.sv/"
+    },
+    {
+      "name": "the Ministry of Finance of El Salvador",
+      "url": "http://www.mh.gob.sv"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXELSALVADORBTC",
+  "title": "El Salvador bitcoin"
+}

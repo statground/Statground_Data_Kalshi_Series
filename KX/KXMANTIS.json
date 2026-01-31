@@ -1,0 +1,74 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MANTIS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MANTIS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "any official livestream platform where the attempt is broadcast",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Barstool Sports",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Bleacher Report",
+      "url": "https://www.google.com/search?q=Bleacher+Report"
+    },
+    {
+      "name": "CBS Sports",
+      "url": "https://www.cbssports.com"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com"
+    },
+    {
+      "name": "Fox Sports",
+      "url": "https://www.foxsports.com"
+    },
+    {
+      "name": "NBC Sports",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Sports Illustrated",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://www.ap.org"
+    },
+    {
+      "name": "The Athletic",
+      "url": "https://theathletic.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "Young Mantis",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Young Mantis's official Instagram",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Young Mantis's official TikTok accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Young Mantis's official YouTube channel",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMANTIS",
+  "title": "Mantis time"
+}

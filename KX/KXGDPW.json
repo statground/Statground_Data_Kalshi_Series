@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/WGDP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/WGDP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "World Bank",
+      "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG"
+    }
+  ],
+  "tags": [
+    "Growth"
+  ],
+  "ticker": "KXGDPW",
+  "title": "Global GDP growth"
+}

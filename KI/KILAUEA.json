@@ -1,0 +1,22 @@
+{
+  "additional_prohibitions": null,
+  "category": "Climate and Weather",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/KILAUEA.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/KILAUEA.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Government of Hawaii County",
+      "url": "https://www.hawaiicounty.gov/departments/civil-defense/active-emergency-proclamations"
+    },
+    {
+      "name": "State Government of Hawaii",
+      "url": "https://dod.hawaii.gov/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KILAUEA",
+  "title": "Kilauea eruption"
+}

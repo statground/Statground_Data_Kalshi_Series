@@ -1,0 +1,23 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BIGTECHLAYOFF.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BIGTECHLAYOFF.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/"
+    }
+  ],
+  "tags": [
+    "CEOs",
+    "Elon Musk",
+    "Employment",
+    "Layoffs"
+  ],
+  "ticker": "BIGTECHLAYOFF",
+  "title": "Big tech layoffs"
+}

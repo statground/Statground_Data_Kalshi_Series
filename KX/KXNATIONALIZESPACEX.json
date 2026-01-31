@@ -1,0 +1,111 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NATIONALIZE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NATIONALIZE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "ABC",
+      "url": "https://abcnews.go.com/"
+    },
+    {
+      "name": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "Board of Governors of the Federal Reserve",
+      "url": "https://www.federalreserve.gov/releases/g17/Current/g17.pdf"
+    },
+    {
+      "name": "CBS",
+      "url": "https://www.cbsnews.com/"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/"
+    },
+    {
+      "url": "https://www.google.com/search?q=<company>"
+    },
+    {
+      "name": "Department of Justice Office of the Pardon Attorney",
+      "url": "https://www.justice.gov/pardon"
+    },
+    {
+      "name": "Department of the Treasury",
+      "url": "https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield"
+    },
+    {
+      "name": "Energy Information Administration",
+      "url": "https://www.eia.gov/totalenergy/data/monthly/index.php"
+    },
+    {
+      "name": "Federal Register",
+      "url": "https://www.federalregister.gov/"
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/"
+    },
+    {
+      "name": "MSNBC",
+      "url": "https://www.msnbc.com/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "official White House press pool reports",
+      "url": "https://www.google.com/search?q=official+White+House+press+pool+reports"
+    },
+    {
+      "name": "Politico",
+      "url": "https://www.politico.com/"
+    },
+    {
+      "name": "relevant federal courts",
+      "url": "https://www.google.com/search?q=relevant+federal+courts"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Securities and Exchange Commission",
+      "url": "https://www.sec.gov/"
+    },
+    {
+      "name": "Semafor",
+      "url": "https://www.semafor.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "the United States Congress",
+      "url": "https://www.congress.gov/"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": [
+    "Trump"
+  ],
+  "ticker": "KXNATIONALIZESPACEX",
+  "title": "Nationalize SpaceX"
+}

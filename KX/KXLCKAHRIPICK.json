@@ -1,0 +1,72 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CHARPICK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CHARPICK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Dot Esports",
+      "url": "https://dotesports.com"
+    },
+    {
+      "name": "ESPN Esports",
+      "url": "https://www.espn.com/esports/"
+    },
+    {
+      "name": "game's official esports website",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "GameSpot",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "GosuGamers",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "IGN",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Kotaku",
+      "url": "https://kotaku.com"
+    },
+    {
+      "name": "Liquipedia",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "PC Gamer",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The Score Esports",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "tournament's official broadcaster or streaming platform",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "tournament's official website and statistics portal",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Twitch official tournament broadcasts",
+      "url": "https://kalshi.com/"
+    }
+  ],
+  "tags": [
+    "Esports"
+  ],
+  "ticker": "KXLCKAHRIPICK",
+  "title": "LCK finals Ahri"
+}

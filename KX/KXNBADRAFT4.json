@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Sports",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DRAFTPICK.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DRAFTPICK.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "annual",
+  "settlement_sources": [
+    {
+      "name": "NFL",
+      "url": "https://www.nfl.com/"
+    }
+  ],
+  "tags": [
+    "Basketball"
+  ],
+  "ticker": "KXNBADRAFT4",
+  "title": "NBA Draft Fourth Pick"
+}

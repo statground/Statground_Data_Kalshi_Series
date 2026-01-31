@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FREE.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FREE.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Freedom House",
+      "url": "https://freedomhouse.org/explore-the-map?type=fiw&year=2024"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXFREESYRIA",
+  "title": "Syria Freedom House"
+}

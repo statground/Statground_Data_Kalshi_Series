@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/DOT.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/DOT.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "CF Benchmarks",
+      "url": "https://www.cfbenchmarks.com/data/indices/DOTUSD_RTI"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXDOTD",
+  "title": "Polkadot Above/below"
+}

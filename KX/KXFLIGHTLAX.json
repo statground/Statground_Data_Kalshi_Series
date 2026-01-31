@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "World",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/FLIGHTLAX.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/FLIGHTLAX.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "daily",
+  "settlement_sources": [
+    {
+      "name": "FlightAware",
+      "url": "https://flightaware.com/live/cancelled/yesterday/LAX"
+    }
+  ],
+  "tags": [
+    "Flights"
+  ],
+  "ticker": "KXFLIGHTLAX",
+  "title": "Los Angeles International Airport total delays and cancellations"
+}

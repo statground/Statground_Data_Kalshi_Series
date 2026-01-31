@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CDEF.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CDEF.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "weekly",
+  "settlement_sources": [
+    {
+      "name": "U.S. Census Bureau",
+      "url": "https://www.census.gov/foreign-trade/Press-Release/current_press_release/ft900.pdf"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTRDDEFCN",
+  "title": "US-China trade deficit"
+}

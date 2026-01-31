@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SATOSHI.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SATOSHI.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Satoshi Index",
+      "url": "https://intel.arkm.com/explorer/entity/satoshi-nakamoto"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXSATOSHIBTCYEAR",
+  "title": "Satoshi move bitcoin by year? "
+}

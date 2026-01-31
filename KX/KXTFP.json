@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Economics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TFP.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TFP.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "San Francisco Federal Reserve Bank",
+      "url": "https://www.frbsf.org/research-and-insights/data-and-indicators/total-factor-productivity-tfp/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXTFP",
+  "title": "Total factor productivity"
+}

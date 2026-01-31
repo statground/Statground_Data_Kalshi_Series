@@ -1,0 +1,69 @@
+{
+  "additional_prohibitions": null,
+  "category": "Elections",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/GOVHEAD.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/GOVHEAD.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com/news"
+    },
+    {
+      "name": "Financial Times",
+      "url": "https://ft.com/"
+    },
+    {
+      "name": "major national news outlets of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "office of the head of state of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official government gazette or equivalent official publication of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "official government websites of ",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "parliament or legislature of ",
+      "url": "https://www.parliament.go.ke/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/"
+    }
+  ],
+  "tags": [
+    "Foreign Elections",
+    "International"
+  ],
+  "ticker": "KXCZECHPM",
+  "title": "next czech prime minister"
+}

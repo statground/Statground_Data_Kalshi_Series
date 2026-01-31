@@ -1,0 +1,44 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/NEWDEAL.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/NEWDEAL.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com"
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/"
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "the Office of the United States Trade Representative",
+      "url": "https://ustr.gov"
+    },
+    {
+      "name": "the President of the United States",
+      "url": "https://www.whitehouse.gov/"
+    },
+    {
+      "name": "the White House",
+      "url": "https://www.whitehouse.gov/"
+    }
+  ],
+  "tags": [
+    "Recurring"
+  ],
+  "ticker": "KXNEWDEAL",
+  "title": "New trade deal announced"
+}

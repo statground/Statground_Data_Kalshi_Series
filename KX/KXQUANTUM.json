@@ -1,0 +1,110 @@
+{
+  "additional_prohibitions": null,
+  "category": "Science and Technology",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/QUANTUM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/QUANTUM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Associated Press",
+      "url": "https://apnews.com"
+    },
+    {
+      "name": "Bloomberg News",
+      "url": "https://www.bloomberg.com"
+    },
+    {
+      "name": "Google Quantum AI peer-reviewed publications",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "IBM Research peer-reviewed publications",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "IEEE Transactions on Quantum Engineering",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "IonQ peer-reviewed publications",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://technologyreview.com/"
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/"
+    },
+    {
+      "name": "Nature Communications",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Nature Physics",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Physical Review A",
+      "url": "http://journals.aps.org/"
+    },
+    {
+      "name": "Physical Review Letters",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Physical Review X",
+      "url": "http://prx.aps.org/"
+    },
+    {
+      "name": "Proceedings of the National Academy of Sciences",
+      "url": "http://www.pnas.org/"
+    },
+    {
+      "name": "Quantinuum peer-reviewed publications",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Quantum Computing Report",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Quantum Science and Technology",
+      "url": "https://quantum2025.org/es/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Science",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Science Advances",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Science Magazine",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "the National Institute of Standards and Technology official publications",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXQUANTUM",
+  "title": "Quantum"
+}

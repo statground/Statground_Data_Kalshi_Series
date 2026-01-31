@@ -1,0 +1,18 @@
+{
+  "additional_prohibitions": null,
+  "category": "Crypto",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/MAXTPS.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/MAXTPS.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "avascan.info",
+      "url": "https://avascan.info/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXMAXTPSAVAX",
+  "title": "Max TPS Avalanche"
+}

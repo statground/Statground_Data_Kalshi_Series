@@ -1,0 +1,21 @@
+{
+  "additional_prohibitions": null,
+  "category": "Companies",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/SWITCH2.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/SWITCH2.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Nintendo",
+      "url": "https://www.nintendo.com/us/"
+    }
+  ],
+  "tags": [
+    "Product launches",
+    "Video games"
+  ],
+  "ticker": "SWITCH2",
+  "title": "New Nintendo Console announced"
+}

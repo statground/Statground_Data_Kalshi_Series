@@ -1,0 +1,20 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/TOPALBUMYEAR.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/TOPALBUMYEAR.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "one_off",
+  "settlement_sources": [
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/charts/billboard-200/"
+    }
+  ],
+  "tags": [
+    "Music"
+  ],
+  "ticker": "KXTOPALBUMYEARTS",
+  "title": "Wil taylor swift have the album of the year"
+}

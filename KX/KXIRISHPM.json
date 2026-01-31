@@ -1,0 +1,32 @@
+{
+  "additional_prohibitions": [
+    "Holders of national and regional public office, including Members of Dáil Éireann and Seanad Éireann, members of local government including county and city councilors, and elected representatives to the European Parliament from Ireland.",
+    "Paid campaign staffers on general election campaigns.",
+    "Anyone working in a vote-tallying capacity, or who has the potential ability to observe official vote counts before they are public.",
+    "Third-party vendors and contractors (and employees thereof) of parliamentary campaigns.",
+    "Paid employees of Irish political parties, including but not limited to Fianna Fáil, Fine Gael, Sinn Féin, the Labour Party, the Green Party, and the Social Democrats.",
+    "Paid employees of major polling organizations. This prohibition does not apply to all employees of an organization that contains a polling division (e.g. the prohibition does not apply to all employees of Quinnipiac University despite the presence of Quinnipiac University’s polling division). The Exchange shall determine which polling organizations constitute “major” and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "Employees of major Irish media organizations (including, but not necessarily exclusive to, RTÉ, The Irish Times, The Irish Independent, The Journal, and Virgin Media News). The Exchange shall determine which media organizations constitute “major” and may modify that determination at any time, and will post publicly a list of those organizations on its website.",
+    "All staff of the Oireachtas and its members.",
+    "All staff of the Taoiseach’s Office and the Department of the Taoiseach.",
+    "All staff of the senior government officials’ offices, such as the Tánaiste, Minister for Finance, and Minister for Public Expenditure and Reform.",
+    "All staff of the Supreme Court of Ireland and its Justices."
+  ],
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/IRISHPM.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/IRISHPM.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "Irish Times",
+      "url": "https://www.irishtimes.com/"
+    }
+  ],
+  "tags": [
+    "Foreign Elections"
+  ],
+  "ticker": "KXIRISHPM",
+  "title": "Ireland PM"
+}

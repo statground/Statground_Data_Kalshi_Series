@@ -1,0 +1,56 @@
+{
+  "additional_prohibitions": null,
+  "category": "Politics",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/CASECESSION.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/CASECESSION.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "CalMatters",
+      "url": "https://calmatters.org"
+    },
+    {
+      "name": "Court decisions from California Supreme Court or Federal Courts with jurisdiction",
+      "url": "https://www.courts.ca.gov/opinions.htm"
+    },
+    {
+      "name": "Los Angeles Times",
+      "url": "https://www.latimes.com"
+    },
+    {
+      "name": "Official California Legislative Information website",
+      "url": "https://leginfo.legislature.ca.gov/"
+    },
+    {
+      "name": "official proponent filings",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Politico California",
+      "url": "https://www.politico.com/states/california"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com"
+    },
+    {
+      "name": "Sacramento Bee",
+      "url": "https://www.sacbee.com"
+    },
+    {
+      "name": "San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com"
+    },
+    {
+      "name": "the California Secretary of State",
+      "url": "https://www.sos.ca.gov"
+    }
+  ],
+  "tags": [
+    "Local"
+  ],
+  "ticker": "KXCASECESSION",
+  "title": "CA secession"
+}

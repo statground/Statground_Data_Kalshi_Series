@@ -1,0 +1,70 @@
+{
+  "additional_prohibitions": null,
+  "category": "Entertainment",
+  "contract_terms_url": "https://kalshi-public-docs.s3.amazonaws.com/contract_terms/BUSHBY.pdf",
+  "contract_url": "https://kalshi-public-docs.s3.us-east-1.amazonaws.com/regulatory/product-certifications/BUSHBY.pdf",
+  "fee_multiplier": 1,
+  "fee_type": "quadratic",
+  "frequency": "custom",
+  "settlement_sources": [
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com"
+    },
+    {
+      "name": "Hull City Council",
+      "url": "https://www.hull.gov.uk/"
+    },
+    {
+      "name": "Hull Daily Mail",
+      "url": "https://www.hulldailymail.co.uk/"
+    },
+    {
+      "name": "Humberside Police",
+      "url": "https://www.humberside.police.uk"
+    },
+    {
+      "name": "ITV News",
+      "url": "https://www.itv.com/news"
+    },
+    {
+      "name": "Karl Bushby's official expedition website and social media accounts",
+      "url": "https://kalshi.com/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Sky News",
+      "url": "https://news.sky.com/"
+    },
+    {
+      "name": "the Associated Press",
+      "url": "https://apnews.com/"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com"
+    },
+    {
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com"
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraph.co.uk"
+    },
+    {
+      "name": "The Times",
+      "url": "https://www.thetimes.co.uk/"
+    }
+  ],
+  "tags": null,
+  "ticker": "KXBUSHBY",
+  "title": "Bushby"
+}
